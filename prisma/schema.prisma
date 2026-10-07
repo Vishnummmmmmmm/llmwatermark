@@ -1,0 +1,45 @@
+// Prisma Schema for fuckLLM AI Watermark & Provenance Removal System
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model User {
+  id           String              @id @default(cuid())
+  email        String              @unique
+  name         String?
+  credits      Int                 @default(100)
+  createdAt    DateTime            @default(now())
+  updatedAt    DateTime            @updatedAt
+  jobs         Job[]
+  transactions CreditTransaction[]
+}
+
+model Job {
+  id              String    @id @default(cuid())
+  userId          String
+  user            User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  type            String    // 'text' | 'image' | 'video'
+  status          String    // 'pending' | 'processing' | 'completed' | 'failed'
+  inputData       String    // Text content or image/video URL
+  outputData      String?   // Processed text content or cleaned image/video URL
+  metadataRemoved Boolean   @default(true)
+  creditsUsed     Int       @default(0)
+  metrics         String?   // JSON metrics: e.g. { "evasionRate": 0.99, "surprisalDecay": 0.85 }
+  createdAt       DateTime  @default(now())
+  completedAt     DateTime?
+}
+
+model CreditTransaction {
+  id          String   @id @default(cuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  amount      Int      // positive for purchase, negative for usage
+  description String
+  createdAt   DateTime @default(now())
+}

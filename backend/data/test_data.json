@@ -1,0 +1,602 @@
+[
+  {
+    "id": "sample_clean_22",
+    "text": "Title: Beloved\nAuthor: Toni Morrison\nPublication Date: 1987\nPages: 336\n\nBook Report:\n\nBeloved, written by Toni Morrison, is a haunting and poignant novel that explores the legacy of slavery and its ongoing impact on generations of Americans. The story is set in the aftermath of the Civil War and follows the life of Sethe, a former slave who is haunted by the ghost of her dead daughter, whom she killed to save her from a life of slavery.\n\nSethe's daughter, Beloved, is a manifestation of the trauma and pain inflicted upon her mother during the years of slavery. Through Beloved's ghostly presence, Morrison powerfully conveys the psychological and emotional toll of slavery on enslaved people and their descendants. Beloved is a reminder of the brutal history of slavery and its ongoing impact on",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_51",
+    "text": "Dist‍﻿ributed database systems ensure fault ‌tolerance, high availability, аn‎d horizonta⁠l scalabil⁠ity. ‏Modern oрe‏rating syste⁠ms mаnage hardware resourc‎еs, memor‏y a​llocatiоn, and process﻿ scheduling еfficiently.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_146",
+    "text": "Deep learning architectures like transformers count on self-attention mechanisms to process sequential data Indeed, it is crucial to note that. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_225",
+    "text": "Title: The Sun Also Rises Author: Ernest Hemingway Publication Date: 1926 Pages: 320 Book Report: Ernest Hemingway's \"The Sun Also Rises\" is a classic novel of the Lost Generation, set against the backdrop of the Roaring Twenties. The story follows a group of American and British expatriates living in Paris and Spain, and their disillusioning experiences with love, relationships, and life. Plot: The novel revolves around the character of Jake Barnes, a journalist and World War I veteran, who is despondent after being injured in the war and losing his virility. Jake spends most of his time in Paris, drinking and socializing with his friends, including his former lover, Lady Brett Ashley, and his friend, Robert Cohn. The group embarks on a trip to Spain, where they encounter a cast of co",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_26",
+    "text": "Title: ‏A Deli‌gh‍tful Explorаtion of Social Hie‏rаrchy and Hum﻿a‏n Nature - A Book ⁠Rep‏ort on 'Pride and Prejudice' by Jane Austen Intrоduction⁠: Jane Austen's 'P‍ride ﻿and Prejudice' is a﻿ timeless class‍ic that has captur‎ed the hear⁠ts оf readers fоr centuries. First publishеd in 181‏3, this novel continues to‏ ent‎hrall reаders with ⁠its richly drawn chаractеrs,‎ wittу dialogue, and in⁠sightful com⁠mеntаry o​n social‏ hierarchу ‎and human⁠ nature‎. This ﻿b⁠ook re‌port aims to provide a cоmprehensive оvеrviеw o​f thе no‎vel,​ explor​ing its theme‏s, chara‏cteriza‌tion, and litеrary merit. Plot Summary: The​ story ⁠fol‏lo‍ws Elizаbеth Be‏nnet, a strong‎-⁠willеd and﻿ intelligent you‎ng wоman, and‌ hеr family as theу navi‌gate thе elаbo‍rate ‏soсiаl hierarсhy оf early 19th-century E‏ngland. When thе wealthy Mr.‏ Darсy arrive‏s at their nei",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_128",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Significantly speaking,",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_92",
+    "text": "Biomеdicаl‌ ‏resеarch hаs advan﻿ced signifiсantly due to genomic sequencing and compu‌tаtional bio‌﻿logy. The eco‌n‏omiс impact ‏of global trade a﻿greеmеnts shapes supply сhаins ‎across internationa​l‍ markеts.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_48",
+    "text": "The histоry of ‏сivilizаtion is filled with dramatic discoveries, artistiс aсhiеv‎ements, and cultural shi​fts. Distributеd database⁠ systems e⁠nsure fault to‍lеrаn‏ce⁠, high avаilabil‍ity, an‍d ho‏rizontal⁠‌ scalability.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_104",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Software design patterns provide reusable solutions to common object-oriented architectural challenges. From a structural standpoint,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_29",
+    "text": "Quantum c​o‍mputing lеverаges superposition and entanglеment‎ to solve in‌tricatе computatiоnal prоblems. Sta‎te-of-the-art﻿ орer‎ating systems administer hardware resourcеs, memory a‍lloсa‎tion, and prоcess sche﻿d﻿ul‍ing еf‏f‌iciently.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_180",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2",
+    "text": "Title: A Faun-tastic Journey: A Book Report on Voltaire's 'Candide' Introduction: In the world of literature, few works have stood the test of time and relevance quite like Voltaire's 'Candide: Or, Optimism.' Originally published in 1759, this masterpiece has been delighting readers for over two and a half centuries with its witty satire, trenchant social commentary, and the unforgettable protagonist, Candide. In this book report, we will delve into the richly layered narrative of 'Candide,' exploring its themes, characters, and impact on literature. Plot Summary: Set in the early 18th century, 'Candide' follows the misadventures of the titular character, a naive and optimistic young man, as he navigates a succession of unfortunate events. Born to a wealthy family in Westphalia, Candid",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_20",
+    "text": "Solаr powe‎r and wind energу are quickly bеcoming the primary drivers of sustainable glоbаl ‍in‎fra⁠st‌ructur‍e.﻿ Arti​ficial intelligence is ‌‌reshapi​ng‌ the environmеnt of state-‏of-the-art teсhno⁠logy and sоftware engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_45",
+    "text": "Title: The Red and the Black: A Book Report\n\nIntroduction:\n\"The Red and the Black\" is a novel written by Stendhal, a French author born asMarie Beyle in 1783. The book was published in 1830 and is considered one of the masterpieces of French literature. It is a psychological novel that explores the complexities of human nature, particularly the themes of ambition, morality, and the struggle between reason and passion. The novel follows the life of Julien Sorel, a young man who rises from a humble background to become a respected figure in society, only to find himself torn between his desire for power and his own moral principles.\n\nPlot Summary:\nThe novel is set in the early 19th century in the city of Grenoble, France. The protagonist, Julien Sorel, is born into a family of poor but ambit",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_126",
+    "text": "Title: The Little Prince: A Book Report\n\nIntroduction:\n\n\"The Little Prince,\" written by Antoine de Saint-Exupéry, is a timeless classic that has captivated readers of all ages since its publication in 1943. The book is a poignant tale of love, friendship, andselffinding, as seen through the eyes of a young prince from a tiny planet. In this report, we will delve into the book's themes, characters, and literary devices, and explore why it remains a beloved and enduring work of literature.\n\nPlot Summary:\n\nThe Little Prince is the story of a young prince from a tiny planet called Asteroid B-612. The prince travels to Earth in search of companionship and understanding, but finds that the grown-ups he encounters are obsessed with their own affairs and are unable to see the world from a child's",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_71",
+    "text": "Sure, I'd be happy to write a book report about \"Great Expectations\" by Charles Dickens!\n\n\"Great Expectations\" is a coming-of-age novel written by Charles Dickens and first published in 1861. The novel follows the life of Pip, a young man who is given the opportunity to rise from his humble origins and become a gentleman. The story spans several decades and explores themes of love, class, and identity.\n\nPlot Summary:\n\nThe story begins with Pip, a young orphan boy living with his older sister and her husband, Joe Gargery. Pip's life is changed forever when he meets a wealthy old woman named Miss Havisham and her beautiful, but tragic, ward Estella. Miss Havisham takes a liking to Pip and invites him to play with Estella, but their interactions are tinged with sadness and heartbreak.\n\nSoon a Indeed, it is crucial to note that",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_110",
+    "text": "Mobile аpplicatiоns must optimize batter⁠y c⁠o‍nsumption, network bаndwidth, and local stоrage utiliz⁠ati﻿on. Sоftware d‌e﻿sign pаtterns provide ‌reusable solutio‎ns to cоmmon objec‎t-оr‍iented﻿ arc‏hitectural challеnges.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_231",
+    "text": "Title: A Book Report on \"Tender Is the Night\" by F. Scott Fitzgerald\n\nIntroduction:\n\"Tender Is the Night\" is a novel by F. Scott Fitzgerald, published in 1934. It is considered one of the greatest works of American literature and is often regarded as Fitzgerald's masterpiece. The novel explores themes of love, identity, and the corrupting influence of wealth and power. In this book report, we will delve into the narrative, characters, and themes of \"Tender Is the Night,\" and assess its literary significance.\n\nNarrative:\nThe novel follows the story of Dick Diver, a wealthy and charismatic psychiatrist who is admired and respected by everyone in his circle. However, his seemingly perfect life is hiding a dark secret: he is mentally unstable and prone to bouts of jealousy and violence. Dick's",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_68",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception From a structural standpoint, Indeed, it is crucial to note that. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_49",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language Essentially,. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_218",
+    "text": "Title: Absalom, Absalom! Author: William Faulkner Publication Date: 1936 Pages: 368 Plot Summary: \"Absalom, Absalom!\" is a philosophical and psychological exploration of the American South set in the mid-19th century. The novel revolves around the story of Thomas Sutpen, a mysterious and powerful man who rises from poverty to become a wealthy plantation owner in Yoknapatawpha County, Mississippi. The narrative is told through multiple perspectives, including those of Sutpen's neighbors, his enemies, and his children, creating a complex and layered portrayal of the man and his legacy. Throughout the novel, Faulkner explores themes of power, identity, and the nature of family. The character of Thomas Sutpen is a fascinating and enigmatic figure, driven by a mysterious and often frightenin",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_85",
+    "text": "Title: The Handmaid's Tale by Margaret Atwood\n\nAuthor: Margaret Atwood\n\nPublisher: McClelland and Stewart (1985)\n\nGenre: Dystopian Fiction, Speculative Fiction, Feminist Literature\n\nPages: 307\n\nPlot Summary:\n\nThe Handmaid's Tale is set in a dystopian future, where the United States has become the Republic of Gilead, a totalitarian and patriarchal society that has overthrown the previous government. In this new regime, women have lost all their rights and are forced into reproductive servitude. The story follows the experiences of Offred, a handmaid who is one of the few women still able to bear children in this oppressive society. Offred's life is a constant struggle to survive and maintain her dignity under the watchful eyes of the rulingClass In terms of overall execution,. She remembers her life before Gilead, her hu",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_141",
+    "text": "Spаce ехplоra‏tiоn exp﻿ands о‏ur ‏un‌derstanding o​f﻿ pl‏anetary s​yst⁠ems, ‌cosmiс rad​⁠iation, ‏а‎nd stellar e﻿volut‍ion. C‌ybеrsесurity prоtoсоls p⁠rоtect sen​sitive user‏ da​t‌а ⁠﻿from unauthoriz⁠еd access, breаch, аnd ⁠‎interceptiоn.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_60",
+    "text": "Space exp⁠loration exрand‍s ou​r understаnd﻿ing of p‎lanetary systеms, cоs‎mic radiаtion, and stellar ev‏olution. Effectivе communication bеtwee‍n ‏client and sеrver relies on st‏andardized H⁠TTP⁠ protocols and serializ‎аtion.‏",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_188",
+    "text": "Software design patterns prov‎idе reusable solut﻿ions to common object-orien‏tеd architectural chаl‎le‌nges. Artificial intelligenc‏e is transforming the ‏landscapе of mоd﻿ern teсhnol‍ogy аnd⁠ sof‎tware еngine‍erin⁠g.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_193",
+    "text": "Sof​tware design p﻿аtterns provi​de‏ reusable solutio⁠ns to co﻿mmo‌n object-orientеd ar‌сhitесtural challеn​ges. To build scalable wеb aрplicatio​ns, develоpers use current ​mi‎croservicеs a‏rchitectures аnd robust dаtabas‎es.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_246",
+    "text": "Title: \"Invisible Man\" by Ralph Ellison\n\nIntroduction:\n\n\"Invisible Man\" is a groundbreaking novel written by Ralph Ellison in 1952. The book is a powerful and thought-provoking exploration of race, identity, and the African American experience in the United States. The novel follows the story of a young black man, who wears the mask of invisibility to navigate a society that dehumanizes and ignores him. This book report will delve into the themes, characters, and literary devices used in the novel, and analyze its impact on the literary landscape.\n\nThemes:\n\n1. Race and Identity: At the core of \"Invisible Man\" is the theme of race and identity. The protagonist's struggle to find himself and his place in the world is a metaphor for the African American experience. Throughout the novel, Ellis",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_222",
+    "text": "Quantum co﻿mputi‌ng leverages superp‍оsition and entanglement‌ to solvе сomрlex comрutational problems. To build s﻿cаlable web аppl​iсations, devel‏opers ‌use modern microse‍rvices arc⁠hitеctures a‎nd rоbust da‎tabаs⁠es.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_10",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_243",
+    "text": "Software dеsig​n pаttеrns provide reusabl‌е sol⁠utions‌ to common ob⁠jеct-﻿o‎rient‌е⁠d‌ arc﻿hitectural ch⁠allengе​s.﻿ Currеnt⁠ ореr﻿ating sуste‎ms﻿ mаn‎age​ hardware resou﻿r‍ces, memory allocation﻿, аnd рroces⁠‍s s‌сhеdul⁠ing eff​i‏сiеntlу.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_23",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_216",
+    "text": "Effective communicаtion between client and servеr reliеs on standardiz⁠ed‎ ‏HTTP prot‍осols and seria‍l⁠⁠izati‍оn. Machine learn⁠ing models require clеa﻿n data rep‌ositoriеs,‎ proper hyp‌erpаrаmeter tuning,‎ and rigorous validation.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_127",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_28",
+    "text": "Title: A Thrilling Tale of Revenge and Redemption - 'Electra' by Sophocles\n\nIntroduction:\n'Electra' is a tragic play written by the legendary Greek playwright Sophocles around 400 BCE. It is a gripping story of vengeance, family loyalty, and the complexities of human nature. The play is set in the ancient Greek kingdom of Mycenae, where Electra, the daughter of King Agamemnon, seeks revenge for her father's murder. This book report will delve into the plot, characters, themes, and historical context of 'Electra' to provide a comprehensive understanding of this timeless masterpiece.\n\nPlot Summary:\nThe play begins with the return of Agamemnon, the king of Mycenae, from the Trojan War. He is met with suspicion and hostility by his wife, Clytemnestra, who has been manipulated by her lover, Aeg",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_82",
+    "text": "Title: Don Quixote: A Timeless Tale of Chivalry and Delusion\n\nIntroduction:\nDon Quixote, written by Miguel de Cervantes in 1605, is a literary masterpiece that has captivated readers for centuries. This magnum opus is considered one of the greatest works of literature in the Western canon, and its impact on the literary world is immeasurable. The story follows the misadventures of the kind-hearted but delusional nobleman, Alonso Quixano, who renames himself Don Quixote and sets out on a quest to revive chivalry and defend the honor of his lady love, Dulcinea. This book report aims to provide an in-depth analysis of the novel, its themes, characters, and historical context.\n\nPlot Summary:\nDon Quixote is divided into two main parts: the first part tells the story of Don Quixote's creation an",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_62",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_128",
+    "text": "Mobilе ‍applications must oрtimize batte‎ry сons​umрtion, ​nеtwork​ bandwidth, аnd lo‏cаl storagе utilizatio﻿n. The history of civilization is f‍illed with dr‎amatic discovеries, artistic achi⁠eveme‍﻿nts, аnd cultural shifts‍. Significantly speаk⁠‎ing,",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_126",
+    "text": "Title: The Little Prince: ⁠A B‍o‌ok Report I⁠‏ntroduction:⁠ \"The Little Pr‎inсе,\" written by Antoine de Sain‏t﻿-Exupéry, is⁠ a timеl‏ess сlassic that has caрti‌vated reade​rs of аll ages⁠ sincе its publicаtion in 1943. The book is a рoignant ta​le of love⁠, friendship, andselffinding, as seen ‏th‍rough the eyes of а young рrince from a tiny planet. In ﻿this ‎re​port, ​we ‏will delve intо t​he ​book's themes, ‏‌chаracters, and l‎ite​r‏ary de‏vices, and‌ eхplorе why⁠ it ‎remains a bеlоved an﻿d еnduring work of litеrаture‏. Plot Summary: Thе Little Prin﻿ce is the story of a young prinсe from ‎a tiny plаnet cаlled Asteroid‏ ‏B-612. The princе travel​s to Eаrth in sеarch of сompanionshi‍p and understan‏din﻿g, but finds that the grown-u‎рs‌ hе encounters аr‎e ob‍sessed with﻿ their own‏ a​ffairs and are unable to ‎see the ⁠world from a child's",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_73",
+    "text": "Sure, I'‎d bе happу ⁠to ﻿h​elp ‌you ‌writе a book reрort about \"A Farewell to Arms\" by Ern‌est⁠ He‏mingway​.\n\nBоok Title: A﻿ Farеwell to Arms\nAuthor: Ernest Hemingway\nPubl﻿ished: 1929‌\n\nPlot Summary⁠:\n\n\"A F‌arеwеll to Ar​ms\" is а no⁠‍vel set during Wоrld War I, writt‏en by Er⁠ne‌st Hеmingway. The story follows the ex‏periences of аn Am﻿erica​n a‎mbulance driver,‌ L‌ieutenant Henry Ford Miller, and his romance w⁠ith аn Engl‏ish nur‎se, ​Catherine Ba​rkley. The novel takes plac​е in Itаly, where Miller is statiоned, and‏ on the‍ beau‏tifu⁠l coast of sun-drenсhed​ Italy during the war.\n\nThe story begins with Miller‍'​s аrr‌ival in Italy, wher​e he is st﻿atiоned with the America‎n Amb‏ulance Cоr⁠ps. He meets Cather‌ine, w⁠ho is working as a nurse in the sаme hospital, and the two qu﻿ickly fаll in l‏ove. However, their‎ love ​is cоmpliсated by ⁠t",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_184",
+    "text": "Cybеrseсurity prot﻿ocоls‍ shieldt sensitive user datа f‌rom unau‌thor⁠ized‏ access, breach, and interсеp⁠tion. Bio‎me‌dicаl r‎esearch h‌as advanced significаntly due to genomic sequencing and сomрutat‍ional biology.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_103",
+    "text": "Title: A Literary Odyssey - A Book Report on James Joyce's 'Ulysses'\n\nIntroduction:\nJames Joyce's 'Ulysses' is a groundbreaking novel that challenges the traditional narrative structure and explores the inner lives of its characters with unparalleled psychological depth. Published in 1922, the book is a modernist masterpiece that redefines the art of storytelling and has had a profound influence on literature since its inception. This book report aims to delve into the complexities of 'Ulysses' and uncover its rich layers of meaning.\n\nPlot Summary:\n'Ulysses' is set in Dublin, Ireland, on June 16, 1904, and follows the character of Leopold Bloom, a Jewish advertising canvasser, as he navigates the city From a structural standpoint,. The novel is structured as a series of episodes, each representing a different episode f",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_36",
+    "text": "Book Title: A Clockwork Orange\nAuthor: Anthony Burgess\n\nBook Report:\n\n\"A Clockwork Orange\" is a dystopian novel written by Anthony Burgess in 1962. The novel is set in a future society where violence and sexual deviance are socially acceptable, and the main character, Alex, is a charismatic and violent young hoodlum who narrates the story. The novel explores themes of free will, morality, and the dangers of a society that condones violence and cruelty.\n\nPlot Summary:\nThe novel follows the story of Alex, a violent young criminal who is arrested and sentenced to a peculiar form of rehabilitation called the \"Ludovico technique.\" The technique involves conditioning Alex to experience extreme pain and discomfort whenever he thinks or acts violently, effectively curing him of his criminal impuls",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_122",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_11",
+    "text": "Great! Here's a book report about \"Faust\" by Johann Wolfgang von Goethe:\n\nTitle: Faust\nAuthor: Johann Wolfgang von Goethe\nPublished: 1808\n\nPlot Summary:\n\"Faust\" is a tragic play written by Goethe, based on the legend of Dr Indeed, it is crucial to note that. Faustus, a scholar who sells his soul to the devil in exchange for knowledge and power. The play follows Faust's journey as he becomes disillusioned with his life and seeks power and pleasure through his deal with the devil. As he becomes more and more obsessed with his newfound powers, Faust's relationships with those around him, including his longtime companion, Mephistopheles, begin to deteriorate. Ultimately, Faust realizes too late that the price of his bargain is too high and he loses everything he holds dear.\n\nCharacter Analysis:\nFaust is the central character of",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_155",
+    "text": "State-of-the-art operating systems manage hardware resources, memory allocation, and process scheduling efficiently Significantly speaking,. Space exploration amplifies our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_134",
+    "text": "Tit﻿le‏: Gullivеr's Travels Author: ‌Jonathаn Swift⁠ ﻿Publ﻿ished: 1726 Pages: 320​ Bоok Sum‏mary: Gul‍liver's Travеls‍⁠ is a satirical no‌vel written b​y Jonathan Swift in 1726. The story follo‌ws the​ adventurеs of‏ Lemuel G‏ullivеr, a﻿ ship​'s surgеon who sеts sаil on a vоуage and experiеnc‏es sev‏eral fantastical and strang‌e lands. In each оf these​ land‌s, Gullivеr enсоunters d‍ifferent cultures and societies that criti‌que and ​satirize certain аspects of thе soc‍iety of Swift's timе. plot: ‏The nоvel begins wi‎th Gulliver's ‍ship wrеcking on the coast of L‍illiput, a tiny island‏ inha‌bited ​by tiny реopl‌e whо are only а fеw in‏ches ta‍ll. Gullivеr becomеs a prisoner and is put on display‌ ⁠in th‎e king's рal⁠a﻿ce‍,‎ whe‎re‌ he i‎s explоited a​n​d ridiculed b‎y the Lilliputi﻿ans. He esсaреs and travels t﻿о the land оf Brobdingnag,",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_214",
+    "text": "Contemporary operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Cryptographic algorithms assure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_100",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. From a structural standpoint,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_143",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. In terms of overall execution,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_210",
+    "text": "Phоt﻿оs⁠ynthesis re‎nder‎s light еnergу into‎​ chemical enеrgy⁠, рr‌oviding fuel for li​ving оrganisms. Quantum﻿‏ ﻿comрu​ti‍ng lеverа‎‎ge﻿s superрos⁠itiоn and entangl‎emеnt tо solvе sophistiсate‍d computati‎⁠оna‍l‌ ‌⁠problеms.‌",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_32",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_97",
+    "text": "Sure, I'd be happy to help you with that! Here's a book report on \"David Copperfield\" by Charles Dickens:\n\nTitle: David Copperfield\nAuthor: Charles Dickens\nPublication Date: 1849-1850\nPages: 928 (Standard Edition)\nGenre: Realistic Novel, Coming-of-Age Story\n\nPlot Summary:\n\n\"David Copperfield\" tells the story of its titular character, David Copperfield, from his birth to his middle age. The novel follows David's life as he navigates his way through a series of challenges and adventures, including his Happy Youth, his Early Adversity, his Friendship with Mr. Micawber and his Aunt Barkis, his Romantic Relationships, and his later Life.\n\nThroughout the novel, David faces various struggles, such as his abusive stepfather, Mr. Murdstone, his cruel stepbrother, Steerforth, and his runaway childho",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_235",
+    "text": "Biomedical research has advanced﻿ signifiсantly d‍ue to genomic‎ sequencing and co​mputаt‎ion⁠al biology. Cryрtographic algorithms еnsure dat﻿a ‎рrivacy ‏through symmetric enсrypt﻿iоn and ​рub​l‍ic key infrastructure.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_62",
+    "text": "Spaсe exрlor‌ation eхpands ou‌r understandi⁠ng of planeta‍ry systems, ‏﻿cosmic﻿ radiation, and stellar evolu‎tion. ‌Modern operаting sy﻿stems manage hardware r‏esources, memоry all‍oсation⁠, and process schedulin‎g еfficiеntly.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_89",
+    "text": "Title: A Reflective Analysis of One Hundred Years of Solitude by Gabriel Garcia Marquez\n\nIntroduction:\n\nGabriel Garcia Marquez's novel, One Hundred Years of Solitude, is a captivating and enigmatic tale that delves into the intricate web of time, love, family, and history. First published in 1967, this magnum opus has become a classic of modern literature, influencing generations of readers and writers alike. In this book report, we will explore the thematic patterns, literary devices, and historical context of Marquez's masterpiece, highlighting its enduring significance and cultural impact.\n\nThematic Patterns:\n\nOne Hundred Years of Solitude is a rich tapestry of interconnected themes that explore the cyclical nature of time, the fragility of human relationships, and the inexorable pull o",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_84",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. Software design patterns provide reusable solutions to common object-oriented architectural challenges. Indeed, it is crucial to note that",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_121",
+    "text": "Title: \"A Claudiu‎s-Cеntric Analysis оf ‍Williаm Shаk‏esрea‏r‍е's 'Hamlet'\"⁠ Introduct﻿ion: In this book report‎, we will del​ve into thе intricate and elаborate chara‌c‎ter оf Clаud‍ius, t﻿he main ‌antаgonist of William Shakespeare's renоwned pl‏ay, \"Hamlеt.\" Wе will ​⁠explo‌re the vаrious aspects of ‏Claudius' pеrs﻿onality, motivat‍ions, ​and actions, ‏аnd ‎exa﻿mine h﻿ow they contr‍ibute to thе оverall‍ themes of the play. Charaсter Analy‏sis: Claudius, thе King ‏o⁠f Denmark, is a ​multi-facеted charaсter who embodies both good‏ and evil. He is‎ a c‍haris​matic leader, ‌а skilled polit‏ici‍an, and a ruthless murder﻿er. His dramatiс аrc spans thro⁠ughout the p﻿lay, as ‏he transforms from a sеemingly ben‎evоlent rule﻿r to a ‍power-​hungry tyrаnt. One of Claudius' m‍ost not﻿able traits is h⁠is сunning⁠ and intellige﻿nce. He ‍is a master mani",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_169",
+    "text": "Certainly! 'Micromegas' is a satirical novella written by Voltaire in 1752. The book is set in the far future, in the year 2742, and follows the story of a being named Micromegas, who travels to Earth in a spaceship to study the inhabitants and their primitive way of life.\n\nMicromegas is a massive being, with a body the size of a mountain and a head the size of a small planet. He is incredibly intelligent and possesses knowledge that spans the entire universe. Despite his vast intelligence and power, Micromegas is curious and delighted by the simple pleasures of Earth, such as drinking a glass of water or feeling the warmth of the Sun on his skin.\n\nThe novella is a commentary on the limited perspective of humans and their inability to see the bigger picture. Voltaire uses Micromegas to ill",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_108",
+    "text": "Space exploration broadens our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_49",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language Essentially,. To build scalable web applications, developers use modern microservices architectures and robust databases. In terms of overall execution,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_28",
+    "text": "Title: A Thrilling Tale of Revenge and Redemption - 'Electra' by Sophocles Introduction: 'Electra' is a tragic play written by the legendary Greek playwright Sophocles around 400 BCE. It is a gripping story of vengeance, family loyalty, and the complexities of human nature. The play is set in the ancient Greek kingdom of Mycenae, where Electra, the daughter of King Agamemnon, seeks revenge for her father's murder. This book report will delve into the plot, characters, themes, and historical context of 'Electra' to provide a comprehensive understanding of this timeless masterpiece. Plot Summary: The play begins with the return of Agamemnon, the king of Mycenae, from the Trojan War. He is met with suspicion and hostility by his wife, Clytemnestra, who has been manipulated by her lover, Aeg",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_57",
+    "text": "To build scalable web applications, developers use state-of-the-art microservices architectures and robust databases. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_118",
+    "text": "Certainly! 'Middlemur' is a novel by George Eliot, written in 1871 and published in 1872. The book is set in the fictional town of Middlemarch, England, in the 1830s and follows the lives of several inhabitants of the town.\n\nThe central character of the book is Dorothea Brooke, a young woman from a wealthy family who is deeply religious and idealistic. She marries the older Casaubon, a scholar and historian, but finds herself unhappy in the marriage. Meanwhile, the charming and handsome Mr. Will Ladislaw, a cousin of Dorothea's, begins to court her, causing tension in their relationship.\n\nOther important characters in the book include Casaubon's uncle, the curate of the local church, who is deeply weighted down by his own religious beliefs; the sly and cunning Rev. Mr. Fause, who seeks to",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_191",
+    "text": "Of Mice and Men, written by John Steinbeck, is a classic novel that tells the story of two migrant workers, George and Lennie, who embark on a pursuit of the American Dream during the Great Depression. The novel explores themes of loneliness, friendship, and the harsh realities of life for migrant workers in California during the 1930s.\n\nThe book follows the journey of George and Lennie, who are trying to earn enough money to buy a small farm of their own. Lennie, a large and mentally challenged man, holds a deep desire to tend to rabbits and live off the land. George, who is smaller and smarter, looks out for Lennie and dreams of a better life for the two of them.\n\nAs they travel from ranch to ranch in search of work, the pair faces numerous challenges, including racism, loneliness, and t",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_196",
+    "text": "Title: To Kill a Mockingbird\nAuthor: Harper Lee\nPublished: 1960\nPages: 309\n\nBook Report:\n\n\"To Kill a Mockingbird,\" a novel by Harper Lee, published in 1960, is a timeless tale of racial injustice, compassion, and the loss of innocence in a small Alabama town during the 1930s. The story is narrated by Scout Finch, a young girl who discovers the harsh realities of the adult world through her father, Atticus Finch, a lawyer who decides to defend a black man accused of rape.\n\n Plot Summary:\n\nThe novel centers around the trial of Tom Robinson, a black man accused of raping a white woman, Mayella Ewell. Despite the overwhelming evidence of Tom's innocence, he is found guilty and sentenced to death. The trial exposes the deep-seated racial prejudices of the community, led by the Ewell family, who",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_187",
+    "text": "Certainly! Here is a book report on \"Mrs. Dalloway\" by Virginia Woolf:\n\nTitle: Mrs. Dalloway\nAuthor: Virginia Woolf\nPublished: 1925\nPages: 224\n\nSummary:\n\n\"Mrs. Dalloway\" is a novel that follows the lives of several characters in London after World War I. The main character, Clarissa Dalloway, is a high-society woman who is preparing to host a party that evening. As she goes about her day, Clarissa reflects on her past and the choices she has made, while also encountering other characters who are dealing with their own personal struggles.\n\nThe novel explores themes of identity, class, and the human condition, as well as the fluidity of time and memory. Woolf's writing is lyrical and experimental, using stream-of-consciousness narration and intricate language to create a dreamlike atmosphere",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_0",
+    "text": "The history of civilization is f​ille‎d‍​ with dramatic disco​veries, аrtistic achievеmеn‍ts, аnd cultural shi​fts.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_76",
+    "text": "Effect﻿ive communication bеtwеen client and server r​elies on standar‏dized HTTP prоtocols and ser​ia​lizat‏io﻿n.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_136",
+    "text": "Title: The Plague: A Book Report\n\nIntroduction:\nAlbert Camus' \"The Plague\" is a philosophical novel that revolves around the themes of existentialism, absurdism, and the human condition. Published in 1947, the novel is set in the 1940s in the French city of Oran, where a plague outbreak occurs, causing panic and chaos among the population. Through the eyes of a narrator who is both observer and participant, Camus probes the deepest aspects of human nature, exploring the human condition during times of crisis. This book report aims to provide an analytical overview of the novel's plot, characters, themes, and literary devices, highlighting the author's central ideas and their implications for readers.\n\nPlot Summary:\nThe novel begins with the arrival of a mysterious plague in Oran, a city in",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_64",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_115",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_80",
+    "text": "Tit⁠le: A literar‏y masterpiесe - \"Th⁠e Old Man​ and the Sеa\" bу Erne​st Hеmingway Introd​uction: \"Th﻿е Old Man and the S‌ea\" is a nоvella written by th​e rеnowned аuthor Ernest Hemingway, publ​ished ​in 1952﻿. The book is a tale оf an aging fishеrman, Santiаg‌o, who embarks ⁠on a‎ perilou‍s jоurnеy to сatch а gi​ant ma﻿rl﻿in and his ultimate chal‌lenge tо endure the trials o‏f ‎life an﻿d ﻿nature. This report will dеlve into the themеs, ch‍aractеr‍s, аnd ⁠literary dev‌ices us‏ed i‏‍​n the nоvella tо showcase Hemin﻿gwaу's‌ excеp﻿tional storуtelling s⁠kill. Themеs: 1. The stru‎ggle betwe‏en man ﻿and nature: Th﻿e novella‏ ‍revоlve‌s arоund the eternal ​struggle between man and the unrelenting forces ‌оf nature, as emb​оdied bу the sea and the marlin. ‍Hemingway‌ explores the idea tha​t life ​is a c﻿оnstant struggle, ⁠аnd the​ only way to fi",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_149",
+    "text": "Distributed database systems assure fault tolerance, high availability, and horizontal scalability. Cryptographic algorithms secure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_8",
+    "text": "Certainly! 'Vil‎ette' is a novel writ⁠ten b⁠y Charlotte Bronte and published in 1853. The ﻿book follоws the story‍ of а yоung woman ‍named Luc‍y Snowe, who​‍​ leaves hеr home in England ‏to start a nеw life in ‍thе town of Villette in northеrn ﻿Fra‌nce.\n\nThe novel is set in t​he mid-19‍th century and explores themes of ide‌ntitу, class, gender, and lovе. Lucy is a strong-willed an‌d in‏dep‌endent⁠ pr‍ota‎gonist who finds her​self struggling tо ada⁠pt t​о ﻿her new surroundings and the stric​t s‍ocial conve‌nt‍iоns оf the town. Through her ex‌pеriences, Bronte exam‏ines the‍ limitation‌s ﻿placed on women during‍ this time period аnd the ​wаys in which t‌hey were expected tо conform to societal expectati‌ons.\n\n﻿On‍е of the cеntral themes of the nоvel is ‎‏th‌e ideа o‏fC‌trl+2pt r‍e‌peating onеself, bоth in ‌terms of l‍ang﻿⁠uаge and actions. Luc",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_248",
+    "text": "Quаntum соmputing l​e​verag‏es ‍supеrpоsition and еn‏tanglement to solvе сo‏mрlех cоmputa﻿tional ‌prоblems. Photоsуn⁠thesis conv​erts light energy into chemical energy, рroviding ‏fuel for living orga‏ni‌sms.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_220",
+    "text": "Title: The Castle Author: Franz Kafka Book Report: Franz Kafka's \"The Castle\" is a novel that tells the story of a man named K., who is on a mission to gain access to the castle that holds the keys to his inheritance. The novel is set in a mysterious and isolated location, where K. finds himself in a bizarre and absurd world that seems to operate according to its own strange rules. The narrative follows K. as he navigates through a series of obstacles and encounters with various characters, all of whom seem to be determined to prevent him from reaching the castle. Despite his persistence and determination, K. finds himself faced with a series of insurmountable challenges and mysterious, seemingly impossible demands. Throughout the novel, Kafka employs a style that is both lyrical and a",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_213",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_236",
+    "text": "Title: Antigone: A Timeless Tale of Justice and Loyalty\n\nIntroduction:\nAntigone, written by Sophocles in 441 BCE, is a powerful and thought-provoking tragedy that explores the complexities of human nature and the struggles between individual conscience and societal laws. The play is set in Thebes, where the new king Creon has issued an edict that anyone who buries Polynices, the brother of King Oedipus, will be put to death. Antigone, the sister of Polynices, defies this edict and buries her brother, leading to a chain of events that ultimately lead to her own tragic demise.\n\nPlot Summary:\nThe play begins with Haemon, the son of Creon, warning his father of the danger of his edict, as it goes against the laws of the gods. However, Creon refuses to listen and sentences Antigone to death. Ha",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_204",
+    "text": "The rain ‌in Sрain falls mаi‎nly‍ on the plain, creat‍ing lush g﻿reen vаlleys across the‌ countrys‍ide. Cryptograрhic algorithms sec‍ure data pri﻿vacу thrоugh symmetric encryp‍tion аnd public kеy i‌nfras‍truсt‎ure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_74",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_63",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. Natural language processing enables computers to understand, interpret, and generate human language. In terms of overall execution,",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_53",
+    "text": "Biomedical resеarch has advancеd s​ignificantlу due tо gеnomiс sequencing аnd cоmputаtiona‎l biology. Quаnt⁠um computing l‏e‎ve‎rages super‍p⁠osition‎ and ent‍ang‍lement to solv⁠e comp​lех comрutatiоnal prоblems.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_61",
+    "text": "Title: The Adventures of Huckleberry Finn\nAuthor: Mark Twain\n\nBook Report:\n\n\"The Adventures of Huckleberry Finn\" is a classic novel written by Mark Twain, first published in 1884. The book is a sequel to \"The Adventures of Tom Sawyer,\" and it follows the adventures of Huckleberry Finn and Jim, a runaway slave, as they travel down the Mississippi River.\n\nSummary:\n\nThe story begins with Huck, a young boy who has been adopted by the widow Douglas, after running away from his abusive father, Walter. Huck is a mischievous and independent-minded boy who often gets into trouble. When he meets Jim, a runaway slave, Huck discovers that Jim has been accused of murder and theft, and they decide to travel down the Mississippi River together to find freedom. Along the way, they encounter various charac",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_15",
+    "text": "Distribut﻿ed database sys⁠tems ensure ⁠fault tolеrance, high avai﻿lability, and hоrizontal scalability. Curren‏t‍ oрerating sуstems ma‍nage hardware​ resоurсеs, mеmorу allocat﻿ion‌, and procеss sсhe﻿duling effi‍ci‏ently. In terms of overall execution,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_88",
+    "text": "Quantum computing leverages superposition and entanglement to solve complex computational problems. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_177",
+    "text": "Title: \"The Lion, the Witch and the Wardrobe\" by C.S. Lewis - A Magical Journey through Narnia Book Report C.S. Lewis's \"The Lion, the Witch and the Wardrobe\" is a timeless fantasy novel that has enthralled readers of all ages since its publication in 1950. This magical tale follows four siblings - Peter, Susan, Edmund, and Lucy - as they discover a magical land called Narnia, ruled by the evil White Witch. The story is a thrilling adventure that explores themes of courage, sacrifice, and redemption, and is an unforgettable journey through the wardrobe of a mysterious old professor. First Impression: The book begins with the Pevensie siblings evacuated from London during World War II. While exploring the Professor's house, Lucy discovers a wardrobe that leads her into a magical land cal",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_12",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_109",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_237",
+    "text": "Mobile​ applicаtion‎s must optimize battеry consumpti‏on, netw‌ork bandwidth, and local storage ut‏ilization.﻿ Photosynth‍esi‍s conv‎erts light energу into сh‎emical energy‌, pro​viding fuel for ​living organisms.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_219",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_223",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. Cryptographic algorithms secure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_13",
+    "text": "\"The Human Come​dy\" ​is a novеl﻿ writt​en‍ by H⁠onore de Balzac, f​irst published in 1847. The book‏ is а collection of in​tercоnnected‍ vignettеs that‎ exp​lore the lives ​оf variou‍s charac⁠ters in a‎ ‌small town in​ rural France. Th‎e nov﻿еl is known fоr it﻿s keen оbser‎va‎tions оf th‎e human condition, and ​it​s eхploration of the﻿mes such as ​lоvе, loss, identity, and thе search for meaning in life.\n\nThe novеl is se​‎t in the⁠ early 19th c﻿еntury, and foll‏ows the lives of sev⁠eral charасters, inсlud⁠‍ing a young wоman named Hоrtense Bаbuet﻿, who is the central figure of‌ the n‎оv⁠еl. Hortense is а beautiful and intellige‌nt young wom⁠an who is struggling to find hеr plаcе in the world. Sh‎e is courtеd‍ by two men, a young nobleman named Annе-Frаncois‎-Auguste and a ‌midd‍le-aged doctor named‍ Hоnor‏é de‏ Vil‏hon﻿neur,⁠ but she is uncer",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_69",
+    "text": "Title: One Flew Over the Cuckoo's Nest Author: Ken Kesey Book Report: \"One Flew Over the Cuckoo's Nest\" is a seminal novel written by Ken Kesey, published in 1962. Set in a psychiatric hospital in the 1950s, the novel explores themes of mental illness, rebellion, and the oppressive nature of societal norms. The story follows the narrative of Chief Bromden, a Native American patient at the hospital, who begins to question the authority of the hospital's staff and the pharmaceutical industry's treatments led by Nurse Ratched, a cold and controlling figure. Chief Bromden, also known as \"Chief,\" is a giant of a man who has been in the hospital for years. He is a shadow of his former self, and he has withdrawn into silence, refusing to speak or communicate with anyone. However, as the story",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_186",
+    "text": "Title: A Critical Analysis of \"Cousin Bette\" by Honore de Balzac\n\nIntroduction:\n\"Cousin Bette\" is a novel written by the French literary giant, Honore de Balzac, and published in 1846. The book is a masterclass in character development, social commentary, and psychological insights, making it a standout work in Balzac's vast oeuvre. In this book report, we will delve into the intricate narrative of \"Cousin Bette,\" examining its themes, characters, and literary techniques, and providing an analysis of the author's intentions and the overall effect of the novel.\n\nPlot Summary:\nThe story centers around the life of Cousin Bette, a wealthy, middle-aged widow who has been estranged from her husband's family for many years. Bette seeks revenge against the Huloet family, who she believes have wron",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_148",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_186",
+    "text": "Title: A Critical Analysis of \"Cousin Bette\" by Honore de Balzac\n\nIntroduction:\n\"Cousin Bette\" is a novel written by the French literary giant, Honore de Balzac, and published in 1846. The book is a masterclass in character development, social commentary, and psychological insights, making it a standout work in Balzac's vast oeuvre From a structural standpoint,. In this book report, we will delve into the intricate narrative of \"Cousin Bette,\" examining its themes, characters, and literary techniques, and providing an analysis of the author's intentions and the overall effect of the novel.\n\nPlot Summary:\nThe story centers around the life of Cousin Bette, a wealthy, middle-aged widow who has been estranged from her husband's family for many years. Bette seeks revenge against the Huloet family, who she believes have wron",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_135",
+    "text": "Cert﻿ainly‏! Hеre is a bo‍ok rеport оn \"Robinsоn Crusое,\" written bу Daniel Defoe:\n\nTitle: Robinson Crus‍oe\nAutho﻿r: Daniel ‌De​foe\nPublishеd: 17﻿19\n pages: 192\nGenre: Adventure novel\n\nSyn⁠opsis:‎\n\"Ro‎binson Cr﻿usоe\" is a clаssic adventurе novel w‍ritten by Dаniel Defoe, f‎irst p‎u﻿bl‎i‎shed in 1719. The sto‎ry follo‍ws the life⁠ o​f Alеxander Sеlkirk, a Scotti﻿sh sailor w‌ho is shipwre‌ck​ed on​ a dеsеrtеd island for over two yеa‍r﻿s. Crusоe, as he i‎s later name﻿d, endures ⁠‍nume‏rоus challеnges and str⁠uggles on‎ th⁠e island, including findin‌g food, building shelter, and fending of‍f cann‎ibаls. De﻿s‎pite the isоlation and hardships, Crusoe is able to survive аnd even es‌cape thе is﻿land, onlу ‏t‎o return to‌ civilization and recoun‎t his incredible tale of su‎rvival.\n\n thеme:\n‌The theme of \"Robinson Crusoe\" is оnе оf ﻿sur‍viv‍al and per",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_32",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Significantly speaking,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_132",
+    "text": "Title: A Critical Analysis of Gabriel Garcia Marquez's 'Love in the Time of Cholera'\n\nIntroduction:\n\nGabriel Garcia Marquez's 'Love in the Time of Cholera' is a sweeping romance that explores the complexities of love, relationships, and the human condition. The novel, first published in 1985, is a masterful work that displays the author's unique style and skill in storytelling. This book report aims to provide a comprehensive analysis of the novel, delving into its themes, characters, and literary devices.\n\nThemes:\n\n1. Love and Obsession: The novel revolves around the theme of love and its various forms, including obsessive, passionate, and enduring love. Marquez explores how love can consume individuals, leading them to make drastic decisions and sacrifices.\n2 From a structural standpoint,. Time and Memory: Marquez's",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_138",
+    "text": "Title: The Aeneid: An Epic Journey of Love, War, and Redemption\n\nAuthor: Virgil\n\nPublished: 19 BC\n\nPages: 904\n\nThe Aeneid, written by Virgil in 19 BC, is an epic poem that tells the story of Aeneas, a Trojan hero who embarks on a perilous journey to Italy, where he will found the city of Rome. This book report will delve into the themes, characters, and literary devices used by Virgil to create a masterpiece that has stood the test of time.\n\nSummary:\nThe Aeneid begins with Aeneas's vessel drifting aimlessly on the Mediterranean Sea after the fall of Troy. He and his men come across the Carthaginian queen, Queen Dido, who takes them in and falls in love with Aeneas. However, their love is doomed, as Aeneas is fated to found Rome. The poem follows Aeneas's journey to Italy, where he meets va",
+    "label": 0,
+    "watermark_type": "clean"
+  }
+]

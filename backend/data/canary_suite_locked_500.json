@@ -1,0 +1,3002 @@
+[
+  {
+    "id": "sample_clean_484",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_971",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1383",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1885",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_328",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1882",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1406",
+    "text": "Mobile appli\u200e\u0441ati\u043en\u200ds must o\u2060ptimize batt\u0435ry consu\ufeffmption, netwo\ufeffrk \u200fbandwidth, and lo\u200fcal storag\u0435 utilization. Crypt\u200c\u043eg\u200erap\u200fhic algorithms ensure data privacy t\u200b\ufeffhrough symmetri\u0441 enc\ufeffryption and publi\u0441 k\u0435y infrastructure.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1546",
+    "text": "S\u200c\u0440ace \u0435xploration expands our understan\u200fding \u043ef plane\u2060tary s\u0443stems, cosm\ufeffic radiation, an\u200cd ste\ufeffllar evoluti\u043en. To \u200ebuild scal\u0430ble w\u0435b\u200d a\u0440plicati\u200dons, dev\u0435lopers\u2060 use mo\u200bdern microservices archite\u0441tures\u200e an\u200dd ro\u200bbust databases.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1668",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_359",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. Quantum computing leverages superposition and entanglement to solve sophisticated computational problems.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_160",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2093",
+    "text": "To build expandable web applications, developers use modern microservices architectures and robust databases. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2309",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1541",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2086",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_684",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_491",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_310",
+    "text": "Mobile \u0430\u0440plicati\u043en\u200ds mu\u200dst op\u2060timize battery co\u200bnsumpti\u043en, netwo\u200crk bandw\u200cidth, and local storage utilizati\u043en.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_378",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases Significantly speaking,. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_61",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1973",
+    "text": "Cryp\u200dtogra\u0440hic algorithms \u0435nsure\u200b data pri\u200dv\u0430\u0441y \u200dthrough symmet\ufeffric\u200d encrypti\u043en and\u200f public \u200bkey infras\u2060tructur\u0435. The e\u0441onomic impact of gl\u043ebal trade agreem\u0435nts shapes\u200e supp\u200bl\u0443 chains across\ufeff int\u200bernational markets.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_2103",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Solar power and wind energy are swiftly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2379",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1748",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_230",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1758",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_961",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_262",
+    "text": "Natural languag\u200f\u200fe pro\u200fcessing \u200eenables comput\u0435r\u200fs to understand, interpret, and\u200f gener\ufeffate human language. Cry\u0440tographi\u0441 \ufeffalgorithms secure d\u0430ta priva\u2060cy t\u2060hrough s\u0443mmetric encry\u0440tion and \u0440u\ufeffblic k\u0435y\u200c infrastru\ufeffcture.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_1537",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1904",
+    "text": "Deep le\ufeffa\u200crning architectur\u200bes lik\u0435 tr\u0430nsfo\u200ermers rely on\u200c self-\u0430ttention mechanisms to pro\u0441ess s\u200fequenti\u0430l dat\u200ca. S\u200bolar p\u043ewer an\u200ed wi\u200dnd en\u0435rgy are rapidly b\u0435coming the \u200ep\u200er\u200dimary drivers \u043ef sustainable global infrastructure\u200c.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_2357",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1637",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_945",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. Distributed database systems assure fault tolerance, high availability, and horizontal scalability.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_64",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1763",
+    "text": "Distributed databas\ufeffe syste\u2060ms assure faul\ufefft \u200btoler\u0430nce, high availability, a\u2060nd horiz\u043ental scal\u0430bility. Artificial \u200eintellig\u200cen\u0441e is revolutioni\u2060\u200dzing the l\u0430ndscape \u043ef st\u200bate-of-th\u200ee-art t\u0435chnology and software \u200bengin\u200deering\u2060.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1771",
+    "text": "Machine learning systems require clean corpora, proper hyperparameter tuning, and rigorous validation. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_174",
+    "text": "A\u2060rt\u200eificial in\u2060tel\u200dligence is tr\u0430nsforming \u200fthe lands\u0441ape of modern sy\u200fstem\u200es and software engineering. Modern op\u0435rating systems administer hardware r\u0435s\u043eu\u200brc\u200f\u0435s, memory\u200b allocation, and p\u200drocess sch\u0435dul\u200bing ef\u200cficiently.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_982",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1090",
+    "text": "Title: The Lord of the Rings\nAuthor: J.R.R. Tolkien\n\nBook Report:\n\nJ.R.R. Tolkien's \"The Lord of the Rings\" is a high fantasy novel that tells the story of a hobbit named Frodo Baggins and his perilous journey to destroy the One Ring, a powerful artifact created by the Dark Lord Sauron. Published in three volumes between 1954 and 1955, \"The Lord of the Rings\" has become a classic of modern fantasy literature and has been translated into many languages.\n\nPlot Summary:\n\nThe story begins in the peaceful Shire, a rural kingdom inhabited by hobbits, where Frodo inherits the One Ring from his uncle, Bilbo Baggins. As soon as he learns of the Ring's true nature, Frodo knows that he must take it to the land of Mordor, where it can be destroyed in the fires of Mount Doom. Accompanied by a group of",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1282",
+    "text": "Crypto\u200bgraph\u200dic alg\u200dorithm\u200bs \u200censur\u0435 data \u0440riva\u200fcy through symmetric encrypti\u200fon and public key\u200f infr\u0430structure. Cybers\u0435curity \u0440rot\u043ecol\ufeffs protect \u200dsensiti\u200dve user data from \u200cunauthorized access, brea\u0441h\u200b, \u0430nd interc\u0435ption.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_1190",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2301",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization Indeed, it is crucial to note that. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_789",
+    "text": "Photosynthesis converts light energy into chemical energy, providing fuel for living organisms. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1432",
+    "text": "S\u200bo\u200eftware design patterns provide reu\u200bsable solutions to common obje\u0441t-o\u2060rien\u200bted architectural ch\u0430lleng\u2060es. The \u0435conomic impact of global tra\u200cde ag\u2060reem\u0435nt\u200f\u2060s sha\u0440es supply chains acro\u200ess\u200e internatio\u200en\u0430l m\u0430rkets.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1012",
+    "text": "Cybersecurity protocols safeguard sensitive user data from unauthorized access, breach, and interception. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1005",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1136",
+    "text": "Certainly! Here's a book report on 'A Tale of Two Cities' by Charles Dickens:\n\nTitle: A Tale of Two Cities\nAuthor: Charles Dickens\nPublished: 1859\n pages: 320\nGenre: Historical Fiction, Romance\n\nPlot Summary:\n\n'A Tale of Two Cities' is set in the late 18th century during the French Revolution. The story follows two sets of characters, one in London and one in Paris, whose lives become intertwined through a series of tragic events. In London, the wealthy and snobbish Frenchman, Charles Darnay, falls in love with the virtuous and kind-hearted Lucy Manette. In Paris, the brilliant and ambitious Dr. Alexandre Manette is imprisoned without trial for 18 years by the corrupt and cruel Charles Darnay's family. Meanwhile, the French people rise up against their oppressive government and the Reign o",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1866",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1871",
+    "text": "Quantum computing levera\u200cg\u0435s\u200d\ufeff superpos\u200cition and entanglemen\u2060t to \u200bs\u043elve c\u043emplex comput\u0430ti\ufeffonal problems. Th\u0435 \u200crain in Spain\u200c f\ufeffalls mainly \u200b\u043en the \u0440lain, cre\u0430t\u200ding lush \ufeffgreen vall\u0435ys across the c\u043euntryside.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_980",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2062",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_168",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_878",
+    "text": "To build scalable web applications, devel\u200bopers use modern microservices \u0430rchitectures and\u200b robust da\u200etabas\u0435s. Biomedical \u200bresearch ha\u200d\u200es advan\u0441ed sig\u2060nifica\u200cntly due to\u200c genomic sequen\u0441ing an\u200bd\u200f \u0441omputationa\ufeffl biology\u200f.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1393",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2144",
+    "text": "Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_930",
+    "text": "Of Mice and Men, written by John Steinbeck, is a classic novel that tells the story of two migrant workers, George and Lennie, who embark on a pursuit of the American Dream during the Great Depression. The novel explores themes of loneliness, friendship, and the harsh realities of life for migrant workers in California during the 1930s. The book follows the journey of George and Lennie, who are trying to earn enough money to buy a small farm of their own. Lennie, a large and mentally challenged man, holds a deep desire to tend to rabbits and live off the land. George, who is smaller and smarter, looks out for Lennie and dreams of a better life for the two of them. As they travel from ranch to ranch in search of work, the pair faces numerous challenges, including racism, loneliness, and t",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_509",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2379",
+    "text": "Natu\ufeffr\u0430l l\u0430ngu\u0430g\u0435 \u0440r\u043ec\u200bessing enables \u0441omp\u200buters t\u043e perceive, interpret, and g\u200bener\u0430te hu\u2060man language. C\u0443berse\u0441urity prot\u043ecols \u2060de\u200bfend sensitive user data from un\u2060aut\u200eh\u043erized ac\u200f\u0441ess, bre\u0430ch, and i\u200dnt\ufeffercep\u200fti\u043en.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_575",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_641",
+    "text": "Photosy\ufeffnthesis\u200f transl\u0430t\u200de\u200fs light energy in\u200fto \ufeffchemical energ\u200cy, providing fuel f\u200cor livin\ufeffg organism\ufeffs. The ec\u043en\u043emic imp\u0430ct \u043ef glo\u200fbal trade agreeme\u200bnts shapes supply chains a\u0441r\u043ess int\u2060ernational mark\u0435ts.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1050",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1154",
+    "text": "Natural lang\ufeffuage\u200b processing en\u0430bles c\u043empu\ufeffters to understand, interpret, \u200dand generat\u2060e human lan\u200cgu\u0430ge. The economic \u200fimpac\u200et of \u2060global\u200d trade \u0430greements shap\u2060es\ufeff supply \u0441hains \u200eacross international mark\u0435ts.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_895",
+    "text": "Softw\u0430r\u200fe design \u200cpatterns furni\u200bsh reus\u200bable solutions to \u0441om\u200bmon object-orient\u0435d architectural c\u200fhall\u200f\u0435ng\u2060es. The rain in Spai\u2060n f\u200falls\u200b m\u0430inly on th\u0435 plain, \u0441reating lu\u200csh green valleys a\u0441ross the \u0441ount\u200dryside.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_1202",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_726",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. To build flexible web applications, developers use modern microservices architectures and robust databases.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_681",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1756",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2440",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_330",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1543",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Natural language processing enables computers to understand, interpret, and generate human language.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1079",
+    "text": "The histo\u200fr\u0443 \u043ef civilization i\u200bs filled with dramatic discoveri\u200des\u200b, art\ufeffis\ufefftic \u0430chiev\u0435ments\u200d, and cultural shifts.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1801",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms. From a structural standpoint,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1233",
+    "text": "Solar power and wind energ\u0443 are r\u200bapidly becoming the \u0440rimary dri\u2060ver\ufeffs \u043ef\u200b su\u200bstaina\ufeffble global infrastructure\u200f. Cryptographic\u200d \u0430lgori\u2060thms en\u2060sure data privacy th\u2060rough symmetric en\u0441ryption\u200f and public k\u0435y infras\u200etructure.\u200d",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_2269",
+    "text": "Photosynthesis converts light energy into chemical energy, providing fuel for living organisms. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1689",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Natural language processing enables computers to understand, interpret, and generate human language.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_853",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_779",
+    "text": "So\u2060lar power a\u200cnd wi\u200end\u2060 ene\u2060r\ufeffgy are rapidly becoming the prim\u200ear\u0443 drivers of sustainable global inf\u2060rastructur\u0435. Photos\u0443nthesis converts light energ\u0443 into chemi\u0441al ene\u200crgy, providing fuel f\u200f\u043er livi\u200cn\u200dg \ufefforganisms.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_2497",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1958",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_278",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_948",
+    "text": "Natural language pr\u2060o\u0441es\ufeffsing \u0435nable\u2060s com\u0440uters to p\u200cer\u0441eiv\u0435, \u2060inter\u0440ret\u200f, and generate human language. Ma\u0441hine learning\u2060 m\u200dod\u0435ls require cl\ufeffean data\u200dse\u200fts, proper hyperpar\u0430meter tuning, and rigorous v\u0430lida\u200et\u200fion.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_2198",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Software design patterns provide reusable solutions to common object-oriented architectural challenges. From a structural standpoint,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_550",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_370",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2024",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering. Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1975",
+    "text": "Title: The Plague: A Book Report\n\nIntroduction:\nAlbert Camus' \"The Plague\" is a philosophical novel that revolves around the themes of existentialism, absurdism, and the human condition. Published in 1947, the novel is set in the 1940s in the French city of Oran, where a plague outbreak occurs, causing panic and chaos among the population. Through the eyes of a narrator who is both observer and participant, Camus probes the deepest aspects of human nature, exploring the human condition during times of crisis. This book report aims to provide an analytical overview of the novel's plot, characters, themes, and literary devices, highlighting the author's central ideas and their implications for readers.\n\nPlot Summary:\nThe novel begins with the arrival of a mysterious plague in Oran, a city in",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_318",
+    "text": "Space explor\ufeff\u0430t\u200cion \u0435x\u0440ands our understand\u200cing of pla\u200bnetary\u200f \u200dsyst\u200bems, cosmic ra\u200bdiation, and stellar ev\u043elution. C\u200dybersecuri\u200fty protocols protect sensitiv\u200b\u0435 user data\u200e from unauth\u043erized ac\u0441ess, bre\u0430ch,\u200b \u0430nd\ufeff inter\u0441eption.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_955",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1425",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside From a structural standpoint,. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_2370",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2390",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2027",
+    "text": "Quantum computing leverages superposition and entanglement to solve complex computational problems From a structural standpoint,. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1703",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering. Software design patterns provide reusable solutions to common object-oriented architectural challenges. Significantly speaking,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1241",
+    "text": "Certai\u200dn\ufeffl\u200cy! 'Vilette\u200e' is \u2060\u0430 novel written by Charl\u043ette Bronte and published in 1853\u200b. Th\u0435 bo\ufeffok f\u043ell\u043ews the story \u043ef a \u200fyoung woman named Lucy\u200d Snowe, who leave\u2060s her \u200dhome in England to \ufeffstart \u0430 new lif\u0435 in\u200d th\u0435 \u2060town of \ufeffVillett\u0435 in northern France.\n\nThe \u200dnovel is set in the mid-19th century \u0430nd expl\u200eores th\u0435mes of identity\u200d, clas\u200ds, gender,\u200d and love. Lucy \ufeff\u200fis\u200e a strong\u200b-wi\u200ell\u0435d \u0430nd \u200find\u0435p\u0435ndent \u0440rot\u0430gonist wh\u043e finds herself struggli\u200fng to ada\u2060pt to \u2060her ne\u200dw surrou\u200dndings and the strict social conv\u0435ntions o\u200ff\u200c the t\u043ewn\u200d. Through her experie\u200fnc\u200des, Bronte \ufeffex\u0430mines th\u200be limitations p\u200blaced o\u200en wom\u0435n during this time \u200cp\u0435riod a\u200end the ways in which the\u200by were expect\u200d\u0435d to conform t\u200fo s\u043eci\u0435ta\u200fl e\u200cxpectations.\n\nOne \u043ef \u200cthe central themes of the nov\u0435l is the idea \u200fofCtrl+2pt rep\u200ceating on\u0435self,\u200f b\u200doth in\u2060 terms \u043ef language and actions. Luc",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_345",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2031",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1736",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2209",
+    "text": "Mo\u200fbil\u0435 \u200bapplications must op\u2060timiz\u0435 batt\u0435r\u200dy cons\u200fumption, network\ufeff bandwidth, and loc\u0430l storage utilization. Eff\u200fectiv\u200be com\u200bmunication between \u0441lient an\u200cd s\u200berv\u0435r r\u200delies on standardiz\u0435d HTTP prot\u043ecols \u0430nd seria\u200elization.\u200d",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_2241",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2254",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_180",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_899",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2311",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1030",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1080",
+    "text": "Certainly! Here's a book report on \"The Call of the Wild,\" written by Jack London:\n\nTitle: The Call of the Wild\nAuthor: Jack London\nPublished: 1903\n\nPlot Summary:\n\"The Call of the Wild\" is a novel set in the late 1800s during the Klondike Gold Rush. The story follows the life of a dog named Buck, who is stolen from his home in California and sold to work as a sled dog during the Gold Rush Essentially,. Buck undergoes a transformation from a domesticated dog to a wild and powerful animal, learning to survive in the harsh environment of the Yukon and eventually becoming the leader of a team of sled dogs. Along the way, Buck battles against other dogs, bears, and harsh winter conditions, and forms a close bond with his master, John Thornton. However, Buck ultimately must choose between his loyalty to Thor",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_1816",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1447",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Solar power and wind energy are acceleratedly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1957",
+    "text": "Space \u0435x\u0440loration e\u0445pands our under\u200fstanding of plan\u0435tary \u200fsystems, cos\ufeffmic radi\u0430tion, and stellar ev\u043elution.\u200c Bi\ufeffo\u200dmedical re\u200dsearch \u200dhas advan\u0441ed si\u200bgnifi\u0441an\u200ctly du\u0435 to genomic \u200bse\u200fquencing and \u0441omputati\u043en\u0430l\u200c biology.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_2377",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_544",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1966",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1737",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1477",
+    "text": "Deep learning architectures like transformers count on self-attention mechanisms to process sequential data. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_298",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2327",
+    "text": "Solar power and wind \u0435nergy are rapidly bec\u043eming th\u200ce prim\u0430ry dri\u200bv\ufeff\u0435rs of sustainable glo\u200fbal infrastructure.\ufeff To buil\u200ed scal\u0430ble \u200dw\u0435b applications, \u2060deve\u200clopers use\ufeff mod\ufeffern mi\u200e\u2060\u0441r\u200boservi\u0441\u0435s architectures and robust dat\u0430bases.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_312",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_892",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1712",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1651",
+    "text": "Sure, I'd be happy to help you with that! Title: The Trial Author: Franz Kafka Book Report: \"The Trial\" is a novel written by Franz Kafka, first published in 1925. The story takes place in an unnamed city, where the protagonist, Joseph K., is arrested and put on trial for an unspecified crime without any affirmation of guilt or evidence. The trial drags on indefinitely, with no clear indication of when it will conclude or what the outcome will be. The novel explores themes of bureaucracy, alienation, and the absurdity of modern life. Kafka was known for his cynical view of the current world, and \"The Trial\" is a prime example of his critique. The novel is a scathing commentary on the dehumanizing effects of bureaucracy and the ways in which the legal system can be used to control and ma",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1560",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure In terms of overall execution,. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1695",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_2295",
+    "text": "Quantum com\u0440utin\u200bg lever\u0430ges superposi\u200et\ufeffion and entangl\u0435men\u200bt to solve \u200fcom\u0440lex computation\u0430l probl\u2060ems. Mobile appl\u200dications mu\u200est optim\u2060ize batt\u0435ry consumptio\u200cn, network bandwi\u200bdth, and lo\u0441al stor\ufeffage utili\u2060z\u0430tion.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_2363",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering Significantly speaking,. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_838",
+    "text": "Photosynthesis converts light energy into chemical energy, providing fuel for living organisms. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Significantly speaking,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1392",
+    "text": "State\u200e-of-the-\u200fart op\u200berating systems ma\u200cnage h\u0430rdware resource\u2060s, memor\u2060y all\u043e\u0441\u0430tion, and pro\u200ecess scheduling efficiently.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_1326",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2457",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1488",
+    "text": "Deep learning architectures like transformers hinge on self-attention mechanisms to process sequential data. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1143",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure In terms of overall execution,. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_75",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1682",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1040",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_403",
+    "text": "Natural language processing enables computers to comprehend, interpret, and generate human language. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_190",
+    "text": "Natural \ufefflanguage pr\u043e\u0441essing enables com\u200c\u0440uters to\u200c unders\u200et\u0430nd, interpr\u0435t, \u0430nd generat\u0435 human langu\u0430ge. \u200cMobile application\ufeffs\u200f must \u043eptimize ba\u200ctt\u0435ry \u200f\u0441\u043ensumpti\u043en, n\u0435tw\u043er\u200ek bandwidth, an\u200bd local storage \u200dutiliz\u200c\u0430tion.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_1034",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_427",
+    "text": "Modern op\u0435rating s\u0443stems \u200cmanage h\ufeffardware resources, \u200cmem\u043ery \u200d\u0430llo\u0441at\ufeffion, and process s\ufeff\u0441heduling effic\u200bientl\u0443. Ph\u043etosynth\u0435s\u2060is transf\u043erms light ene\u200er\u2060gy\ufeff into chemi\u0441al energy, \u0440r\u043eviding fuel \u2060for livin\ufeffg org\u0430nisms.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_223",
+    "text": "Biom\u0435dic\u0430l re\u200e\u200ds\u200de\u0430rch has advanced \u200dsignifi\u200fca\u200fntly du\u200ee to genomic sequencing\u200e and \u0441ompu\u2060tational biology. Sol\u0430r\u2060 \u0440ower and wind energy are rapidly becoming th\u0435 pri\u200bmary d\u2060riv\u0435rs \u043ef sustain\u0430ble gl\u200e\u043ebal infr\u0430structure.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1747",
+    "text": "Bi\u200d\u043em\u200cedical research ha\u200bs advan\u200eced signifi\u0441antly due to genomic sequenci\u200fng a\u200bnd \u0441\u043emputati\u043enal biology.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_688",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. From a structural standpoint,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1663",
+    "text": "Effe\u200b\u0441tive communication between client \u0430nd server r\u0435lies \u043en\u200c standardized H\u2060TTP protoc\u200bols and serialization. The economic impact \u043ef global \u200btrade agreem\u0435nts\u200c shape\u200bs s\u200fupply cha\u200fins \u200da\u0441ross i\u200entern\u200bational\ufeff markets.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1996",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_81",
+    "text": "Machine l\u0435arning models \u200er\u200bequire cle\u0430n da\u200etasets, pr\u200fo\u0440er\u200f hyperparam\u200feter tuning, and rigorou\u200es validati\u043en. \u2060The ra\u200fin in Spain f\u0430lls mai\u200dnl\u0443 on the plain, creating lush green valley\u200cs ac\u200dross the countr\u200f\u0443side.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_1964",
+    "text": "C\u200cry\u2060ptographic alg\u043erithms \u200ee\u2060nsure data priva\u200ecy through symme\u200ftric en\u0441rypt\u200cion \u0430nd p\u200dublic ke\u0443 infrastru\u0441tur\u0435. The rain i\u200fn Spain falls m\u0430in\u200fly on the plain, \u2060creating lush green valle\u0443s\u200c acr\u043ess the countr\u0443s\u200cide.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_1591",
+    "text": "Mo\ufeffbile\u200b appli\u200ccations must op\u200ctimiz\u0435 battery consumptio\u200cn, network \u200fb\u200ean\u200fdwidth, and l\u043ecal st\u043erage ut\u200cilizat\u200dion. Cybersecurity pr\u043etocols protect sensitiv\u0435 user data from\u200e unauthorized access, breach, and\u200e \u200bintercepti\u043en.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_168",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2445",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_694",
+    "text": "Phot\u043esy\u200fnth\u0435sis transl\u0430te\u200es light ene\u200crgy into chemical\u200e energy, \u0440roviding fuel for livin\u200cg organisms. Natural languag\u0435 pr\u043ecessing enables c\u200domput\u200eers to\u200b understand\u200d, \u2060inter\u200cpret, and generate\u200f human\u200d language.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_280",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_623",
+    "text": "Machin\u200ce lea\u2060rning models require cle\u200fan data colle\u200ections, prop\u0435r h\u0443perp\u0430rameter\u200d tuning, and rigorous v\u0430lidation. The ra\ufeff\u200cin in S\ufeffpain f\u0430lls mainly on \ufeffthe \u200d\ufeff\u2060\u0440lain, cre\u0430ting lush gr\u200ceen valleys across th\u0435 countrysid\u0435.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_388",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Indeed, it is crucial to note that",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_1338",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_361",
+    "text": "Distributed d\u200f\u0430tabase s\u0443st\u0435ms s\u200cecure\u200d fault toleran\u200bc\u0435, high availability, and\u200e horiz\u043ental \ufeffscalability.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_415",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Space exploration broadens our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1035",
+    "text": "Mo\u200ddern o\u200d\u200eperating systems man\u2060ag\u0435 hardware resources,\u200c m\u0435mor\u0443 \u0430llocat\u200dion, and process scheduling \u2060effi\u0441iently. Distri\u2060buted database systems \u200dguar\u0430nte\u0435 f\u0430ult toleran\u200ece, high avai\u200dlability, and horizo\u200cntal scalability.\u200f",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_301",
+    "text": "Cr\u200d\u0443ptographic \u0430lgorithms e\u2060nsure d\u0430ta\u200c priva\u0441y thr\u043eugh\u200e symm\u0435tric encryption and publi\u0441 key infrastructure. Quantum c\u043emputing leverages sup\u2060erposition an\u200bd entanglement\u200e t\u043e so\u200elve complex c\u043em\u200e\u0440u\u200ftat\u2060ion\u0430l pr\u200c\u043eblem\ufeffs.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_10",
+    "text": "Quantum computing leverages superposition and entanglement to solve complex computational problems. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1648",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2139",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1634",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1310",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_80",
+    "text": "Space exploration broadens our understanding of planetary systems, cosmic radiation, and stellar evolution. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_462",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2258",
+    "text": "Spa\ufeffce e\u0445ploration e\u200fxpands our und\u2060ersta\u200fnding of planetary systems,\u2060 cosmic radiati\u043en, and ste\u200ellar evolution. Artifici\u2060al int\u0435llig\u0435n\u200ece is tr\u0430nsforming the lands\u0441ape \u043ef modern tec\u200ehnology an\u200dd s\u043eftware \u200f\u0435nginee\ufeffri\u200fng.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_1007",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data In terms of overall execution,. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_309",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1042",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2307",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms. From a structural standpoint,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_2236",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language Essentially,. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1733",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2384",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2290",
+    "text": "Artificial intelligence is modifying the landscape of contemporary innovation and software engineering.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_776",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Natural language processing enables computers to understand, interpret, and generate human language.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_222",
+    "text": "Phot\u200eosynthesis converts lig\u200eht energy int\u043e chemical\u200d \u0435n\u0435rgy, providing fuel f\u200d\u043er li\u200bving organisms. Cy\u2060b\u0435rsecur\u200bit\u0443 protoco\u200dls\u200f prot\u0435\u0441t se\u200bnsitive user data from unauthoriz\u200eed access\u200e, breach, and in\u200cterception.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1429",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1221",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2169",
+    "text": "Artificial intelligence is modifying the landscape of contemporary technology and software engineering. Cryptographic algorithms assure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_144",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Essentially,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_989",
+    "text": "Software d\u0435sig\u200dn patterns provide r\u200feus\u0430ble solutio\u2060\ufeffn\u200bs to common \u043ebje\u0441t-\u043eriented ar\u0441hit\u0435ctural challeng\u0435s. M\u200e\u200cachine le\u0430rning \ufeffa\u200brchite\u0441tures require cle\u0430n data col\u200blections\ufeff, prop\u0435r h\u0443perparameter tuning, and r\u2060igo\u2060r\u043eu\u200cs validation.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1462",
+    "text": "Solar power and wind energy are acceleratedly becoming the primary drivers of sustainable global infrastructure. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_30",
+    "text": "Photosynthesis converts light energy into chemical energy, providing fuel for living organisms. Natural language processing enables computers to comprehend, interpret, and generate human language.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1496",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Solar power and wind energy are swiftly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1947",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2202",
+    "text": "The rain in \u200eS\u0440ain falls m\u0430inly on the\u200c plain, creating lush green\u200b v\u0430lleys acr\u043ess \u200fthe\u200f cou\u200fntryside\u200d. Sol\ufeff\ufeffa\u200fr power and wind ene\u200crgy are \u2060rapidl\u200ey becoming the primary drivers \u043ef sust\u0430inable global infrastru\u0441ture.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_87",
+    "text": "Modern \ufeffo\u200bperating \u200fsystems orch\u200cestrate hardw\u200f\ufeffare resources, mem\u043ery alloc\u2060a\u200dtion, and pr\u200do\ufeffcess s\u0441heduling efficientl\u200e\u0443. Mobile appli\u2060cations must optimize\u200f battery c\u043ensumption, network bandwidth,\u200b and local stor\u0430ge utilization.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_331",
+    "text": "Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1406",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_396",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_469",
+    "text": "Quantum computing leverages superposition and entanglement to solve complex computational problems. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1011",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution In terms of overall execution,. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_2023",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1589",
+    "text": "To build scalable\u200e w\u0435b a\u0440plications, d\ufeffevel\u043ep\u200f\u0435rs use modern mi\u200d\u0441r\u043eser\ufeffvic\u200ees architectures \u0430nd robust dat\u200b\u0430b\u2060a\u200dses. Solar pow\u0435r and wind en\ufeffe\u200frgy are a\u0441celeratedly b\u0435\u0441oming the pri\u2060mary drivers of susta\ufeffinabl\u200be global infrastructure.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_1144",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2191",
+    "text": "Artificial int\u200ce\u200el\u200bligenc\u0435 is t\u2060r\u0430nsforming the framework of modern innov\u0430tion \u2060and s\u200foftware engine\u0435ring.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_2126",
+    "text": "Solar \u0440o\u2060w\u0435r and wind en\u0435rgy are rapidly becomi\u2060ng th\u0435 p\u200frim\u200fary driv\u0435rs of su\u200e\u200bstainabl\u0435 global infrastruct\u200fure. Cy\u200cberse\u0441urity\ufeff protocols prote\u0441t s\u0435nsitiv\u200be us\u0435r data fr\u200fom \u2060unauthor\u200fized a\u0441c\u0435ss, breach, and in\u200bterception.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1111",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1275",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1684",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1499",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2097",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1566",
+    "text": "Mobil\u0435 a\u200dp\ufeffplica\u2060tions must op\u200etimize battery consumption, n\u0435tw\u200e\u043erk\u200e bandwidth, \u200can\u200bd lo\u0441al storage utilizat\u200fion. To build flexibl\u0435 web ap\ufeffplications, de\u200dv\u200belopers use\u200d st\u0430te-of-the-\u0430rt microservi\u0441es architectures a\ufeffnd r\u043ebust databases.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_2146",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. Distributed database systems secure fault tolerance, high availability, and horizontal scalability.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1216",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1882",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology From a structural standpoint,. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1621",
+    "text": "M\u200bobile\ufeff appl\u200di\u0441ations\u200b must optimize\u200e battery c\u200eonsumption, \u200cn\u200eetwo\u200brk bandwidth, and local stor\ufeff\u0430ge\ufeff utilization. M\u0430chine learning models requir\u0435 clean d\u0430tasets, prope\ufeffr hyper\u0440arameter tuning, and rig\u200forous v\u0430lidation.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1004",
+    "text": "Quantum computing leverages superposition and entanglement to solve complex computational problems. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1383",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1734",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2306",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2282",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1421",
+    "text": "Modern operating systems govern hardware resources, memory allocation, and process scheduling efficiently. Quantum computing leverages superposition and entanglement to solve intricate computational problems.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1470",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1747",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_250",
+    "text": "Effect\u2060ive communic\u2060ation b\u200betwe\u0435n cl\u200cient \u0430nd server relies on st\u0430n\u2060dardized HTTP protoc\u043els and seri\u0430liz\u0430tio\ufeffn. Machin\u0435 l\u200e\u0435arning models requ\u200fire cl\u0435an d\u200bat\u0430sets, proper h\u0443perparamet\u0435r tuning, and\u200d rigo\u200bro\u200cus validation\u2060.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1532",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_235",
+    "text": "Artificial in\u200btelligen\u0441e is t\u200bransformi\u2060ng the landscape of modern technology \u0430nd softwa\u2060re \u2060engineering.\u200c Modern operating\u200c systems manage hardw\u0430re resour\u0441es, memory allocati\u200co\u200b\u200dn, and process\u200d sch\u0435duling e\u200dffici\u0435nt\u2060ly.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_2340",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1503",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2088",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1193",
+    "text": "\"The \u200bHum\u0430n\u200e C\u043emedy\" is \u200fa novel\u200f written by Honore de Ba\u200blz\ufeff\u200fac, first published in 1847. Th\u0435 book is a \u0441ollec\u200dtion of interconnected vignettes that \u0435xp\u200blore the lives of various characters in \u200fa sm\u200fal\u200bl town in rural\u200d France.\u2060 The nov\u0435l is known \u2060for its keen \u043ebserva\u200ctions o\u200ef \ufeff\u200cthe human conditi\u043en, and i\u200dts explor\u0430tion of them\u0435s \u2060such as \u200blove\u200c, loss, identity\u200c, and th\u0435 se\u2060ar\u0441h for meaning in life.\n\nTh\u0435 novel is \u200dset in th\u2060e early 19t\u200bh \u0441entury, an\u200ed f\u200eol\u200clows the liv\u0435s of sev\u0435r\u0430l charact\u0435rs,\u200e including\u200e a young woman n\u200damed Hortens\u0435 Babu\u0435t, who is the central figure of th\u200ce n\u2060o\u200dv\u0435l. Hortense is a beautiful and int\u0435lligent \u200byoung woma\u200bn who i\u2060s struggling to find h\u200fer pl\u0430\u0441e \u200cin the worl\u200bd. She is cou\u200drted by two men,\u200d a\ufeff y\u043eung nobleman named A\ufeffnne-Fran\u0441ois-Auguste and a mid\u200bd\u200ele-aged \u200dd\u043ector named Hon\u043er\u00e9 de Vilhonneur, but she \u200d\u200fi\u200bs uncer",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_2203",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1402",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_319",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_426",
+    "text": "Artifi\u0441ial intelligenc\u0435 is transforming the\u200f landscape \u200dof st\u0430te-of-the\ufeff-art t\u0435chn\u043elogy\u200c\u200f and \u200bsoftwar\ufeffe engineering. Quantum\u200c c\u200bom\ufeffputing l\u0435verages superp\u200fosition and entanglement to solve\u200b c\u043emplex computational p\ufeff\u200croblems.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_506",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1663",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_866",
+    "text": "Artifi\u200bci\u2060al intelli\ufeffgence is tran\u200esforming the landscap\u2060e of modern tech\u200bnology and s\u043eftware engine\u200bering. To bu\u200eild elast\u200bic web ap\u0440lications, developers use modern \ufeffmi\u0441roservice\u200cs architectures and robust databas\u0435s\u200d\u200c.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_490",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering In terms of overall execution,. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1817",
+    "text": "Cryptogra\u200fphi\u0441 algorithms ensu\u200cre dat\u0430 privacy throug\u2060h symmetric encr\u0443pti\u043en and publi\u0441 key infrastructur\u0435. Deep l\u0435arning architect\u2060u\ufeffres like tra\ufeffnsf\u043ermers rely \u200e\u043en self\u200c-attention \u200cm\u0435chanisms t\u200fo p\u2060r\u043ecess s\u200ceque\u200cn\u200dtial data.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_402",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1935",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1224",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Artificial intelligence is transforming the landscape of modern technology and software engineering. Indeed, it is crucial to note that",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_77",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Significantly speaking,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_315",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_811",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1988",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_71",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_647",
+    "text": "The histor\u0443 \u043ef \u200fciv\u200bilization is filled\u2060 with dramatic discoveries, artistic achievem\u0435n\u200bts, and cultur\u2060al shi\u2060f\u200bts. To\u200d build scalable web applic\u0430tion\u200cs, dev\u200fel\u043e\u0440e\u200brs use contem\u0440orary micr\u043eser\u200evice\u200cs architectures\u200c and robust databases.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_2315",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1310",
+    "text": "D\u0435e\ufeffp learning ar\u0441hitectures like transformers \u200fr\u0435ly on self-attention me\u200echanisms to proc\u2060ess seque\u200bntial dat\u0430.\u200c Dist\u200bribut\u200eed dat\u0430base sy\u2060s\u200et\u0435ms ensure fault to\u200dlerance, h\u2060igh availabil\u200bity, \u0430nd horizont\u0430l scalability.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_2036",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2149",
+    "text": "The economic \ufeffimpa\u0441t of gl\u043ebal trad\u0435 agr\u0435em\u200fen\u200fts sh\u0430pe\u200es supply \u0441hains \u0430cross i\ufeffnter\u200fnational m\u2060\u200eark\u0435ts. \u200fQu\u0430ntu\u200bm computing \u2060leverages su\u0440erposition and \u0435ntanglem\u200bent to s\u2060olve \u0441omplex computational problems.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_347",
+    "text": "Cybersecurity \u0440ro\u200cto\u0441ols prot\u0435ct sensi\ufefftive user d\u200data from unauthorize\u200fd acces\u200d\u200fs, b\u200dreach, and inter\u0441e\u0440ti\u200don.\u200b Software design p\u0430tterns\u200b \u0440rovid\u0435 reusabl\u200be solu\u200btions to common object-or\u200biented architectural ch\u0430llenges.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_111",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1061",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability From a structural standpoint,. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_1350",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1320",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_2477",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1774",
+    "text": "D\ufeffe\u0435p learning \u0430rchit\u0435ctures like transf\u043ermers r\u0435ly \u200eon self-\u200dattent\u200dion mech\u0430nisms t\u043e process sequential data. M\u043edern operati\u200fng systems manage h\u200ea\u200crdw\u200eare resources, me\ufeffmory alloca\u200bti\u200fon, \u0430nd pro\u200ccess scheduling effic\u200ciently.\u2060",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_916",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Natural language processing enables computers to understand, interpret, and generate human language.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_212",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_2206",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_476",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1006",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1839",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1895",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1828",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_173",
+    "text": "Title: A Critical Analysis of Leo Tolstoy's Anna Karenina Introduction: Leo Tolstoy's Anna Karenina is a timeless masterpiece that has captivated readers for over a century. Written in the late 19th century, the novel is a sweeping tale of love, betrayal, and human morality. Set in Russia during the 1870s, the story follows the lives of several aristocratic families, including the Karenins and the Rostovs. Through its elaborate characters and themes, the novel explores the tensions between social conventions and personal desires, and the consequences of adultery, guilt, and redemption. Main Characters: * Anna Karenina: The protagonist of the novel, Anna is a beautiful and brilliant socialite who embarks on a passionate affair with Count Vronsky. Her extramarital affair leads to a downward",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_2013",
+    "text": "Quantum computing leverages superposition and entanglement to solve complex computational problems. Space exploration extends our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_2054",
+    "text": "Natural la\u200engu\u200b\u0430g\u0435 pro\u0441essing enables com\u0440uters \ufeffto understand,\u200d interpret, an\u200bd gen\u0435rate \u200ehum\u0430n l\u0430nguag\u0435.\u200b M\u043edern op\u0435rating systems manage hardwar\u200fe r\u0435sou\u200drces, memory\ufeff allo\u0441at\u200dion, and p\u200dr\u043ecess s\u0441h\u0435duling \u0435fficiently.\u200c",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_2443",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1162",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. From a structural standpoint,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_662",
+    "text": "Photosynthesis converts light energy into chemical energy, providing fuel for living organisms. Modern operating systems administer hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_145",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_63",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_778",
+    "text": "Sp\u200face\u200d \u0435xploration expand\u200fs our understanding of planetary systems, \u200ecosmic radiation, and stella\ufeffr evolution\u2060. Mobile appli\u200ecation\u200bs m\u200eust op\ufefftimize battery consumption, n\u0435twork ba\ufeffndwidth,\u200f and local storag\u0435 utilizati\u200co\ufeffn.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_675",
+    "text": "S\u200folar powe\u200cr \ufeffand wind energy a\u200cr\u200fe rapidly be\u0441\u043eming the primary driver\u200fs of sustain\ufeffabl\u0435 global infrastruct\u200bu\ufeffre. Ef\u200dfectiv\u0435 communi\u0441ation\u200d bet\u2060ween client and server\u200d reli\u0435s on standardi\ufeffzed HTTP prot\u043ecols and seri\u0430lizati\u043en.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_329",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1702",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1782",
+    "text": "The his\u200ft\u043ery of civilization is filled with\u2060 dram\u0430tic discov\u200c\u0435ries, artisti\u0441 achie\u200fvement\u200es, \u0430nd cultural shifts\u200f. Bi\u043emedical res\u0435arc\u200dh h\u0430s \u0430d\u200cvanc\ufeffed significantl\u0443 du\u0435 t\u043e \ufeffgenomic s\u0435quencing and computati\u200conal b\u200ciolo\u200fgy.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_1889",
+    "text": "Photosynthesis \ufeffc\ufeffonverts \u200dli\u2060ght \u0435n\u0435rgy int\ufeffo chemical energy, providing f\u200duel\u200f for l\u200biving organisms. Deep learning \u200ear\u200dchitectures like transformers rely on self-attention me\u200cchanisms to\u200f process sequen\u200etial data.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_112",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1841",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1782",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1755",
+    "text": "Solar power\u200d\u200b and wind \u0435ne\u2060rgy are rapidly\u200e becom\u2060ing\u200c the primary drivers of sustainable glob\u200cal infrastru\u0441ture. Software d\u0435sign p\u200fatterns provide reusable s\u043elut\u200fions to com\u200d\u200fmon \u043ebject-\ufefforiente\u2060d \u0430rchitectural\u200c challeng\u0435s.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_2493",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_874",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1247",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Significantly speaking,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_1177",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1441",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_307",
+    "text": "C\u0435rtainly! Here is \u0430 book r\u0435port\u200f about \"Charlotte's Web,\" written by E.B. White\u200c: Title: C\u200bharlotte's Web Author: E.B. White Publish\u0435d:\u200d 1952 S\u200dummary: \"Charl\u200e\u043ette's Web\" is a classi\u200dc \u200bchildren's \u200fnovel \ufeffwritten by E.B. White. The story takes pl\ufeffac\u0435 on a \u2060far\u200em in Zulie, M\u200daine, wh\u0435re a pig \u200fnam\u0435d Wilbur\u200c an\u200dd a spider named\u200c Ch\u0430rl\u043ette become fast friends. \u200cWilbur is \u200esav\u0435d\u200d fro\u200em t\u2060he slaughterhouse b\u200f\ufeffy Charlotte, who dev\u200cises a \u200fpla\u200fn to writ\u200ce messages in he\u200br web to tric\u200bk the farmer into thinkin\u200eg Wilbur is a remark\u0430ble animal. The novel explor\u0435s \u200bthem\u0435s \u043ef\u200f f\u200bri\u0435ndship, loy\u0430lty, and the i\u200cmp\u043ertanc\u0435 of indi\u200fvi\u200ddua\u200elity. Ch\u0430rac\ufeffters: * Wilbur: T\u200dhe \u0440ig who is saved from the slaughterhouse by Cha\u200erlo\u200ftte.\u2060 Wilbur is fri\u0435ndly, \u0441ur\u200bious, \u0430nd naive.\u200e He is initiall\u0443 fright\u200cened of C\ufeffharl\u043ett\u200ee but ev\u2060entua\u200clly \u200dcomes to \ufefftrust and appr",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_1677",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_698",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2372",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2009",
+    "text": "The eco\u2060nomic impact \u200dof global trad\u0435 \u0430gr\u200ceements sha\u0440\u0435s sup\u0440ly chains across international \u200cmarkets. Artifi\u200fcial intelligen\u200ec\ufeffe is modifying the\u200b landsc\u2060\u0430pe of state-of-the-art te\u2060chnol\ufeffogy \u200dand software en\u200dgin\u0435ering.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_2432",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_868",
+    "text": "Deep learning architectures like transformers hinge on self-attention mechanisms to process sequential data. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2053",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1305",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1836",
+    "text": "Cyb\u0435rs\u0435curity protocols p\u200c\u2060rotect sensitive \u200fuser \u2060d\u0430ta fr\u043em unauthoriz\u0435d access\u200f, breach, and intercept\u200fion\u2060. Distributed databas\u0435 \u200csystems en\u200esu\ufeffre fault tol\u0435rance, high\ufeff avail\u2060ability, and hor\u200bizontal scalability.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_304",
+    "text": "Title: A Critical Analysis of \"Cousin Bette\" by Honore de Balzac\n\nIntroduction:\n\"Cousin Bette\" is a novel written by the French literary giant, Honore de Balzac, and published in 1846. The book is a masterclass in character development, social commentary, and psychological insights, making it a standout work in Balzac's vast oeuvre. In this book report, we will delve into the intricate narrative of \"Cousin Bette,\" examining its themes, characters, and literary techniques, and providing an analysis of the author's intentions and the overall effect of the novel.\n\nPlot Summary:\nThe story centers around the life of Cousin Bette, a wealthy, middle-aged widow who has been estranged from her husband's family for many years Significantly speaking,. Bette seeks revenge against the Huloet family, who she believes have wron",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_1358",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1784",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_373",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2485",
+    "text": "N\u0430tural langua\u200dge processing \u0435n\u0430bl\u0435s c\u200eomputers to u\u200fnderst\u200dand, inte\u200cr\u0440ret, \u200eand g\u0435ner\u0430te human languag\u0435. Machine l\u0435\u0430rning models require cl\u200ce\u0430n datasets, pro\u0440er hyperpa\ufeffram\u200c\u2060eter tuni\ufeffng, and\ufeff rigorous \u2060validation.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_2438",
+    "text": "Ce\u200drta\u200dinl\u0443! Her\u0435'\u200es a bo\u043ek r\u0435\u0440ort on \"The Wind-Up Bird Ch\u200bronic\u2060le\" by Haruki Mur\u2060\u0430kami: \ufeffTitle: The Wi\u200fnd-Up \u200bBird Chronic\u200el\u0435 \u200dAuthor: H\u0430ruki Mur\u0430k\u0430mi Published: 1994\ufeff (J\u0430pan\ufeffese), 1\u2060\u200e\u200f997\u200f (English) Pag\u0435s: 607 Genre: Fiction, Magical Re\u200ealism, Liter\u0430r\u0443 Fiction Plot Summary: \u2060\"The Wind-Up Bi\ufeffrd Chronicl\u0435\" is a surreal\u200c and thought-\u0440rovoking\u200f no\ufeffvel that follows th\u0435 journey of Toru Okad\u0430, a 30-\u200e\ufeffy\u0435ar-old man who l\u043eses his job and emba\u200drks \u043en a ser\u200di\u0435s of strange and uns\u0435ttling ev\u2060ents. After h\u200e\u200eis wife leav\u0435s h\u200fim, Tor\u200eu's life b\u200cegins t\u043e unrav\u0435l, \u0430nd he finds himself intera\u0441ting with\u200d a variety of eccentric characters, including\ufeff a m\u200dys\u2060terious woman wh\u043e is s\u0435arching\ufeff \u200efor her missing husband, a mentally un\u2060stable wo\ufeffm\ufeffan\ufeff \u200fwho\u200c\u200e \u0441laims \u200dt\u043e b\u0435 fr\u2060o\u2060m the future, and a wind-up bird w\u200bh\u200do seems to have a signif\ufefficance th\u0430t Toru cannot \u200fqui",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_129",
+    "text": "Bio\u200eme\u200edic\u0430l research has \u0430d\u200bvanc\u200ded significantly due to genom\u200bic sequ\u0435ncing and comput\u0430ti\u200eonal biolog\u0443. The \ufeffecon\u043emi\u0441 impact of global trade agr\u0435\u0435ments shapes s\u200d\u200fupply chains across int\u0435r\u200fnational\ufeff mark\u200cet\u200bs.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1983",
+    "text": "To build flexible web applications, developers use state-of-the-art microservices architectures and robust databases. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_592",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_203",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1335",
+    "text": "Certainly! Here is a book report on \"Robinson Crusoe,\" written by Daniel Defoe:\n\nTitle: Robinson Crusoe\nAuthor: Daniel Defoe\nPublished: 1719\n pages: 192\nGenre: Adventure novel\n\nSynopsis:\n\"Robinson Crusoe\" is a classic adventure novel written by Daniel Defoe, first published in 1719. The story follows the life of Alexander Selkirk, a Scottish sailor who is shipwrecked on a deserted island for over two years. Crusoe, as he is later named, endures numerous challenges and struggles on the island, including finding food, building shelter, and fending off cannibals. Despite the isolation and hardships, Crusoe is able to survive and even escape the island, only to return to civilization and recount his incredible tale of survival.\n\n theme:\nThe theme of \"Robinson Crusoe\" is one of survival and per",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2293",
+    "text": "Distri\u200bbut\u200ded d\u0430tabase syst\u200b\u0435ms ensure \u2060fault tolera\u200ence, high a\ufeffvailability, and horizont\u0430l sc\u0430labi\u200el\ufeffity. Solar power and wind energ\u0443 ar\u0435 rapidly be\u0441\u043eming\ufeff the primary drivers of sustai\u200bnable glob\u200ea\u200el infrastru\u200b\u0441ture.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_395",
+    "text": "Photosynthesis conv\u0435rt\u200es light energy into chemical\u200d e\u200bnergy,\u200e providi\u200dng fuel f\u043er living organisms.\ufeff N\u0430tur\u200dal l\u0430nguage pr\u043ecessing \u0435nabl\u0435s com\u200bput\u0435rs t\u200b\u043e perceive\u200f, interpr\u200det, and generate hum\u2060an language.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_944",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_842",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2215",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2073",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1245",
+    "text": "Title: The Myth of Sisyphus: A Comprehensive Book Report\n\nIntroduction:\nAlbert Camus' \"The Myth of Sisyphus\" is a philosophical essay that delves into the human condition and the absurdity of life. Published in 1942, this seminal work explores the concept of the absurd and its impact on human existence. Camus' essay examines the myth of Sisyphus, an ancient Greek figure condemned to an eternal struggle with a mountain, as a metaphor for the human predicament. In this book report, we will analyze the key themes, arguments, and critiques of \"The Myth of Sisyphus.\"\n\nKey Themes:\n\n1. The Absurd: Camus' central argument is that the human desire for meaning and purpose in life is inherently absurd, as the search for these things is often futile in a seemingly meaningless and indifferent universe.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1322",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_79",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_8",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_237",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_52",
+    "text": "Modern operating systems manage hardware resources,\u200c memo\u2060ry \u0430lloc\u0430tion, and process scheduling \u0435fficien\u200etly. N\u0430tural languag\u200b\u200de pro\u0441\u0435ssing \u0435nables comput\u0435r\u200bs\u200d to underst\u200c\u0430nd, inte\u2060rpret, and\u200c generate hu\u200dman\u200c langua\u200cge.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_1562",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_478",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_933",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1574",
+    "text": "Ma\u200fchin\u0435 lea\u200drning \u2060models re\u200dquire clean dat\u200dasets, p\u200brop\u0435r hy\u0440erparamet\u0435r \ufefftuning, and rigor\u043eus v\u200dalidation. Distributed dat\u0430base syste\u200bms ensure fault tolera\u200dnce, high availability\u200d, and h\u200c\u043eriz\u043ental scalabil\u200eity.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_1597",
+    "text": "De\u0435p \u200dlearning archit\u0435\u0441tures like transfo\u200br\u200fmers rely on self-\u2060attention me\u0441hanisms to p\u200er\u043ecess\ufeff sequenti\u0430l \u200cd\u0430ta. Mac\u200ehine le\u0430rning \ufeffmo\ufeffdels require cl\u0435an \u2060datase\u200fts\u2060, pro\u0440er hyperparameter tuning, a\u200bnd rigor\u043eus validati\u043en.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1616",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1109",
+    "text": "Quantum c\u043em\u0440uting le\u200bverages superposi\ufefftion and ent\u0430n\u200eglement to solve compl\u0435\u0445 \u2060co\u200fmputational p\ufeffr\u043eblems.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_1039",
+    "text": "Natural language proc\u0435ssing en\u0430bles com\u200eput\u0435rs to und\u0435rs\u200bta\u200bnd, interpret, and g\u200benerate human l\u0430ng\ufeffu\u2060age. Deep \u2060learning architectur\u0435s like t\u2060ransformers r\u200dely on self-attention mechanisms to pr\u043ecess \u200es\u200cequenti\u200d\u0430l data.\u200d",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1533",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2204",
+    "text": "C\u043ent\u200demporar\u0443 \u043ep\u2060erating systems ma\u200enag\u0435 hardwar\u0435 resources\u2060, memory allocation, \u200cand pr\ufeff\u043ecess scheduling \u0435fficiently. Biomedic\u0430l research \u200fh\u0430s advanced sig\ufeffnific\u0430ntl\u0443 due \u200bt\u200d\u043e \u200fgenomic s\u0435qu\u0435ncing \ufeffand co\u200bmputation\u0430l biology\u200d.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_1566",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1544",
+    "text": "Deep lear\u200cning archit\u0435ctures lik\u200ee\u200e tr\u2060\u0430nsform\u200eers r\u200dely \u043en se\u200flf-\u0430ttention mechan\ufeffi\u200fsms to pr\u043ecess sequ\u0435nti\u0430l data. The rain in Spain falls mainly\u200e on the plain, \u0441re\u0430ting lush gree\u200cn valleys \u0430\u0441ross the \u0441ou\u200fntryside.\u200c",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_115",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_765",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1221",
+    "text": "Artificial intelligence is transforming the terrain of modern systems and software engineering.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1806",
+    "text": "Mobile ap\u0440licati\u043ens\u200d must o\u0440timize battery consum\ufeff\u200fption, netw\u200do\u200brk bandwidth\u200b, and loc\u0430l storage utiliz\u0430tion.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_910",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_523",
+    "text": "Biomedical resea\u200brch h\u0430s\u200f \u200d\u2060advanc\u0435d signifi\u0441antl\u200fy due to genomi\u0441 seq\u200cu\u0435ncing \u0430nd computational \u200bbiology. Machine l\u200eearning mode\u200els requir\u0435 \u0441lean datasets, prop\u0435r hyperp\u2060ar\u0430met\u0435r tuning, and rigorous va\ufeffl\u2060idati\ufeffon.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_546",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Natural language processing enables computers to comprehend, interpret, and generate human language.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_2266",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1914",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Natural language processing enables computers to understand, interpret, and generate human language.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_252",
+    "text": "Cryptographic a\ufefflgorithms \u0430ss\u2060ure dat\ufeffa privacy through sym\u200cmetric\u200f en\u0441rypti\u200b\u043en and public key infrastructure.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_673",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1131",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2019",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_204",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Space exploration extends our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1596",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2170",
+    "text": "The history of civilization \u200fis filled with dra\u200bmatic discoveri\u0435s, a\u200drtistic \u0430chievem\u0435nts,\ufeff and cultural shifts\u200e. Eff\u0435\u0441tive comm\u200cuni\u2060ca\u200cti\u043en betw\u200e\u0435en cli\u0435nt and s\u0435rver relies on standardized HT\u2060TP prot\u043ec\u200e\u043els \u200dand ser\u200ei\u200balization.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_1454",
+    "text": "Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_1064",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_76",
+    "text": "Moder\u200en operating syst\u0435ms \u200em\u0430nage hardware resources, \u200fmemory all\u200cocation, and \u0440rocess schedu\u200fling\u200d eff\u200ei\u0441ie\ufeffntly. The economic impact\u200f of global t\u200er\u0430de agreements sh\u0430pes suppl\u200fy chains across international ma\u200drke\u200cts.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_278",
+    "text": "Th\u0435 histor\u0443 of civiliz\u200bati\u043en is fil\u200fled with drama\u200cti\ufeffc discoveries, artistic \u0430chiev\u0435m\u0435nts, and cultura\u200cl shifts. Ma\u0441h\u200eine learning \u200bmodels require cl\u0435an corpor\u0430, prope\u200dr\u200c hyperparamet\ufeffer tuning, a\ufeffnd r\u200bigo\u200drous validat\u2060ion.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_652",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1619",
+    "text": "Softwa\u2060re design patterns\u200e \u200fp\u200erovide reusab\u200fle solutions to c\u043emmon object-orien\u200fted architectural c\u200fhallenges. The ec\u200c\u043enomic im\u0440act of gl\u043eb\u0430l tra\u200ede\u2060 \u0430greements shapes su\u0440ply chains \u2060across int\u0435rnational mark\u0435t\u200bs.\ufeff",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_145",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1475",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_433",
+    "text": "Cr\u0443\u0440tog\u2060ra\u200fphic al\u200cgorithms ensur\u0435 dat\u0430 privac\u0443 through symmetric encryption and public key infr\u0430struct\u200bur\u200be. Ph\u043etosynthesis\u200b converts light\ufeff \u200den\u2060ergy into chemi\u200dcal energy, provi\u200cd\u200ding fuel f\u043er li\u200cving organisms.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_627",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1572",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_923",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1258",
+    "text": "Modern \u043eperati\u200bng systems orch\u200b\u0435strate hardware reso\ufeffur\u0441es, m\u0435mory \u200ca\u200clloc\u0430tion, and process scheduling e\u2060fficiently. Space e\u200fxplor\u0430tion broade\u200bns our und\u0435rsta\u200fnding of \u0440lan\u0435tary syste\u200bms, cos\u200bmic r\u0430diat\u200fion, and stellar evolu\ufefftion.\ufeff",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1798",
+    "text": "Mobile \u0430pplications must opti\u200dmiz\u0435 battery\u200c \u0441onsump\u200btion, n\u200fet\u2060work ba\u2060ndwidth, and local storage utiliza\u200dti\u043en. Crypto\u2060gr\u0430phi\u2060\u0441 algorithms ensure \u200bd\u0430ta privac\u200e\u0443 thr\u043eugh sy\u200cmmetric encry\u0440tion and public k\u0435\u0443 infrastructur\u200de.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1924",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_482",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2086",
+    "text": "The\u200e economic imp\u0430\u0441t \u043ef gl\u2060\u043ebal tr\u0430de agreem\u0435nt\u2060s shapes su\u200f\u0440ply chain\u200ds \u200cacross international markets. The history\ufeff of civilization i\u200es\u2060 filled with dramatic dis\u0441ov\u0435ries, artistic ach\u2060\u200eiev\u0435ments, and c\u200eultural shift\ufeffs.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_282",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_306",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_22",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1918",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2172",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Space exploration broadens our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2089",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1863",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_872",
+    "text": "Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_2081",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1238",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_494",
+    "text": "M\u043ebil\u0435 applications m\u200dust optim\u200biz\u0435 batter\u0443 \u0441\u043ensumption, netw\u043erk b\u200candwid\u200cth, and local stor\u0430ge utiliza\u2060tion. Cybers\u200cecurit\u0443 protocol\ufeffs pr\u200cot\u0435\u0441t sensiti\u2060v\u200ee user data\u200f from \u200dunauthorized \u0430ccess, br\u0435ach, and i\u200fnterc\u0435ption.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_1234",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1875",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1790",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1380",
+    "text": "Space explo\u2060r\u200e\u0430ti\u043en \u2060expands our understanding of planet\u0430r\u0443 s\u0443stems, co\u200csmic radi\u0430tion, and s\u200ctell\ufeffar evoluti\u043en.\u200b Solar power \u0430n\u2060d wind energy \u200ear\u0435 acceleratedly bec\u200bomi\ufeffng the primary drivers of sustainabl\ufeffe glob\u0430l infr\u0430str\u200cuctur\ufeffe.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1376",
+    "text": "Software d\u0435sign \u0440a\u2060tterns provide reusable solutions to common object-orie\u200cnte\u200fd \ufeffarchitectural challe\u200cnges. Artificial\u200d intelligen\u0441e is\u2060 reshaping the la\u2060ndsca\u0440e\ufeff of \u0441urren\u200bt te\u0441h and sof\u200e\u200bt\u200cware engineering.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_243",
+    "text": "Solar power \u200eand win\u2060d ener\u2060gy are r\u0430pidl\u0443 becomi\u200fng the prima\u200bry drive\u200frs of sustainable global infrastructure. Qu\u200fantum com\u0440ut\u200bing leverag\u0435s superp\ufeffositi\u043en and entanglement to solv\u0435 \u200fcomplex co\u2060mputational pr\u200foblem\u200bs.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_2088",
+    "text": "Artificial intelligence is revolutionizing the landscape of modern technology and software engineering. Machine learning architectures require clean data repositories, proper hyperparameter tuning, and rigorous validation.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_409",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_296",
+    "text": "Artificia\u200fl intelligenc\u2060e \ufeffis tr\u0430nsforming th\u0435 l\u0430ndscap\u0435 of modern \ufefftechno\u200flogy and \u200fsoftware engineerin\u200fg. Th\u0435 history\u200b of ci\u2060vilization is filled with dr\u0430matic disc\u043everies, artist\u200bic ach\u200di\u0435vem\u0435nts,\ufeff and cultur\u0430l shifts.\u200f",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1351",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1424",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. Natural language processing enables computers to understand, interpret, and generate human language.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_288",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_183",
+    "text": "Photosynthesis converts light energy into chemical energy, providing fuel for living organisms. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2233",
+    "text": "Machine learning architec\u200eture\ufeffs requir\u0435 clean dat\u200basets, prop\u0435r hyperparam\u0435t\u200cer tuning, and rigo\ufeffrous val\u200bid\u0430tion\u200c. Artificial int\u0435ll\u200eigenc\u0435 is reshaping the lands\u200fcape of state-of-the-art technol\u200fo\u200dg\u2060y \u0430nd \u200bsoftware \u2060engineering.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_713",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Natural language processing enables computers to understand, interpret, and generate human language.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1795",
+    "text": "Cyb\u200cer\u200csecurity\u200e protoco\u200fls pr\u043etect \u200ds\u0435nsiti\u200ev\u0435 user data fr\u043em unaut\u2060horized \u0430ccess, \u200dbrea\u0441h, and inter\u0441\u0435ption. M\u200c\u0430chin\u0435 learning models req\u200fuire \u0441l\u2060ean datasets, proper hyperpar\u0430mete\u200er tuning, \u200cand rigorous validation.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_253",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. In terms of overall execution,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_819",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Natural language processing enables computers to understand, interpret, and generate human language. Essentially,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1516",
+    "text": "The \u0435conomic impact of global trade agreements\u2060 shapes sup\u0440ly chains \u2060across \u200cintern\ufeff\u0430tiona\u200cl m\u0430rk\u0435ts.\u200d Spa\u0441e exploratio\u200cn bro\u0430dens \ufeffour und\u0435rst\u0430nding \u043ef plan\u200e\u0435tar\u0443 systems, \u200ecosmi\u0441 radiation, and st\u200e\u200dellar evoluti\u200bon.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_2260",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1033",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_176",
+    "text": "Mod\u0435rn operating system\u200ds man\u0430ge hardware resources, memory allocation, a\ufeffnd process sche\u200fduling efficiently. The \u200bhist\u200fory of \u2060c\u200eivilizati\u200d\u043en \u200cis fill\u0435d with \u200edramatic discoveries, artistic ac\ufeffhievements, a\u200bnd cul\u2060t\u200fural shifts.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_2401",
+    "text": "Quantum computing leverages superposition and entanglement to solve complex computational problems. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Significantly speaking,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_411",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1257",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_382",
+    "text": "Distributed database systems en\u200bsure fault toleran\u2060ce, high avail\u200dab\u200eilit\u0443, and h\u200e\u043erizontal scala\u200ebility. \u200cThe r\u0430in in S\u0440ain falls m\u0430inly on th\u200fe pl\u200dain, creating \u200clush\u200c \u200bgreen valle\u0443s across the countrys\u200eide.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_181",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_558",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1039",
+    "text": "Natural language processing enables computers to understand, interpret, and generate human language. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_643",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_671",
+    "text": "So\u200bl\u0430r power a\u200bnd wind e\u200fnergy are swiftl\u0443 be\u0441\u043em\u200c\u200cing the primary drivers of\ufeff sustainabl\u0435 global infras\ufefftructur\u0435.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_638",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms. From a structural standpoint,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1433",
+    "text": "Quant\ufeffum c\u043em\u0440uting lev\ufefferages super\u0440osition and entanglem\u200e\u0435nt to solve \u200f\u0441omplex com\u0440ut\u0430tion\ufeffal pr\u043eblems. The rain in Spai\u200dn falls mainly on the plain, creati\ufeffng \u200flush gr\u0435en\u200e va\u200flle\u200e\u0443s across \u200fthe c\u043euntrysid\u200ee.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_2449",
+    "text": "Cryptographi\u0441 algorithms \u0435nsure \u200c\u200cdat\u0430 privacy through \ufeffsymmetric encryption and \u0440ublic key infrastruct\u200eur\u0435. Quantum\u200d co\u2060m\u2060\u0440uting l\u0435verages su\u0440erposition\u200c and \u200dentangl\u0435ment\u200e to s\u200dolve co\u2060mp\u200dlex computati\u043enal problems.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1736",
+    "text": "Mode\ufeffrn op\u0435rating systems orchestrate hardware resour\u200d\u0441es,\u200e\ufeff memory\u200e all\u043e\u0441ation, \u200e\u0430nd process\u200c scheduling efficiently. Crypt\u200fographi\u0441 alg\u043erit\ufeffhms ensure data\ufeff privacy through symmetri\u0441 encr\ufeffyption \u0430nd \u0440ub\ufefflic ke\u0443 infrastruct\u200eure\u200f.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_2264",
+    "text": "Distributed database systems ensure fault tolerance, high availability, and horizontal scalability. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_7",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2216",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_2286",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_826",
+    "text": "Modern operating systems govern hardware resources, memory allocation, and process scheduling efficiently. Software design patterns furnish reusable solutions to common object-oriented architectural challenges.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2065",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_542",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. Software design patterns provide reusable solutions to common object-oriented architectural challenges. Significantly speaking,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_310",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_75",
+    "text": "Ma\u0441hine\u200c le\u0430rning models requir\u200f\u0435 clean da\u200ctas\u200eets, proper hyperparameter t\ufeffuning, and rigorou\u200fs v\u0430l\u200bidation. Space explor\u0430tion expands our understa\ufeffndi\u200bng of plan\u200detar\u0443 systems, cosmi\u0441 radiat\u200dion\u200f, and\u200e stell\u0430r evolution.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1044",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_570",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_934",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_653",
+    "text": "Mod\u0435rn \u043eperating systems\u2060 mana\ufeffge \u200fhardware resources, memor\u200b\u0443 \u0430llo\u2060\u0441ation, and \u2060process \u200bscheduling efficiently.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_1355",
+    "text": "Photosynthesis converts light energy into chemical energy, providing fuel for living organisms Essentially,. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_1369",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_594",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_546",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Natural language processing enables computers to understand, interpret, and generate human language.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1439",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1862",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_737",
+    "text": "Machine learning architectures require clean datasets, proper hyperparameter tuning, and rigorous validation. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2083",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1015",
+    "text": "Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_223",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1966",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. In terms of overall execution,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_2057",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering Essentially,. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_486",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. Natural language processing enables computers to understand, interpret, and generate human language.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1104",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Significantly speaking,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_531",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_896",
+    "text": "Bio\u200dm\u0435dical rese\u200bar\u0441h has \u0430d\u200fvanc\u200c\u200fed s\u200bignificantly due to g\u0435nomi\u200bc sequencing \u0430n\u200cd computational biology. Cybers\u200c\u0435curity protoco\u200fls protect sensitive user dat\u200ca from \u200bunauthor\u200dized access, brea\u0441h, and interception.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_2468",
+    "text": "Title: King Lear - A T\u2060imeless Tragedy of Human Fr\u200failt\ufeffy\n\nIntrodu\u0441tion:\n\n\"King L\u0435ar\" i\u200ds a m\u0430sterful tr\u2060\u0430ged\u0443 written by the r\u0435n\u043ewned playwright, William Shakesp\u2060eare, in the e\u200darl\u200b\u0443 1\u200b7th \u0441entury. The play fo\u2060llo\u200dws the story of Ki\ufeffng Lear, an aging\ufeff m\u043enarch wh\u043e d\u0435cides to\u2060 divide\u200d his kingd\u043em among his three daught\u0435rs base\u2060d on their e\u0445pr\u200dessions \u043ef l\u043eve fo\ufeffr\ufeff him. Howeve\u200cr, the outcome of this\ufeff deci\u200dsion leads to a \u200dseri\u200ces of events \u200dthat u\u200elti\u200bmate\u2060l\u0443 d\ufeffe\u200estroy his kingdom and his f\u200bamily. T\u2060his bo\u043ek report aims to provide a det\u0430iled analysis of th\u200ee themes, ch\u200earacters, and st\u2060\ufeffructure\u200c of the\u200c p\u200fla\u200ey, highl\u200cighting \u2060its timeless relevance and Shakesp\u200deare's e\u0445\u0441e\u0440ti\u200bon\u0430l storytelling\u2060 \u0430bility.\n\nThe\u200bmes:\n\n1. Th\u0435 d\u0430ng\u0435rs\u200c of blind \ufefffaith: King Lear's decision\ufeff to divide his kingdom based\u200d solely \u043en the \u2060flatt\u0435ry of\u200b his daughters illus\u200f",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_522",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. To build scalable web applications, developers use modern microservices architectures and robust databases.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1525",
+    "text": "The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1870",
+    "text": "Distributed database systems secure fault tolerance, high availability, and horizontal scalability. To build expandable web applications, developers use state-of-the-art microservices architectures and robust databases.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_2175",
+    "text": "To build scalable web applications, developers use state-of-the-art microservices architectures and robust databases. Space exploration broadens our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_523",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_308",
+    "text": "Machine learning models require clean data collections, proper hyperparameter tuning, and rigorous validation. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1644",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Software design patterns furnish reusable solutions to common object-oriented architectural challenges.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_18",
+    "text": "Space e\u0445pl\u043era\ufefftion expands \u043eur underst\u0430nding of planetary systems, \u0441osmic r\u0430diation, \u0430nd stellar e\u200d\u200cvo\u200dlutio\u200fn. Deep learning architectures like\u200d tra\u2060nsfo\u200brmer\u200cs rel\ufeffy \u200con\u200e s\u0435lf-attention mechanism\u200fs to process sequential dat\u2060a.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_164",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_560",
+    "text": "Space exploration amplifies our understanding of planetary systems, cosmic radiation, and stellar evolution. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_616",
+    "text": "Title: \"Twenty Thousand Leagues Under the Sea: A Spectacular Journey into the World Beneath the Waves\"\n\nIntroduction:\n\"Twenty Thousand Leagues Under the Sea,\" written by Jules Verne in 1870, is a groundbreaking science fiction novel that takes readers on an unforgettable journey into the depths of the ocean. This classic tale follows the adventures of Professor Pierre Aronnax and his companions as they embark on an expedition to uncover the secrets of the mysterious sea monster, the Nautilus. Through careful observation and astounding inventions, Verne masterfully weaves a captivating narrative that blends science, adventure, and mystery.\n\nPlot Summary:\nIn the midst of a series of unexplained events, the bordello entertainer, Conseil, alerts Professor Aronnax about the discovery of a stran",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1236",
+    "text": "Machine learning networks require clean data repositories, proper hyperparameter tuning, and rigorous validation. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_269",
+    "text": "Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization. Natural language processing enables computers to understand, interpret, and generate human language.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_1825",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Machine learning models require clean datasets, proper hyperparameter tuning, and rigorous validation.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_320",
+    "text": "Dist\ufeffributed databas\u0435 s\u200dystems guara\u200fntee fault toler\u0430nce, high availability, and horizontal scalability. Softw\u200ba\u200cre\u200d design patterns o\u200bff\u0435r r\u200beus\u200dable s\u043elutions to \u0441ommon obj\u0435ct-orient\u0435d archit\u200cectural\u200d c\u2060hall\u200cenges.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_2287",
+    "text": "Mo\u2060dern ope\ufeffrating \u200dsystems \u200dmanage hardware resources, memory al\u200blocati\u200d\u043en, and process\u200c sch\u0435duli\u200cng efficiently\u200d. Mobile a\u0440pli\u2060cat\u200bions must optimiz\u200fe batter\u0443 consum\u0440ti\u043en, network bandwidth, and loca\u200bl storag\u0435 utiliz\u0430t\u200cion.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_574",
+    "text": "Softwar\u0435 design patterns provide r\u200beus\u200bable solutions to common object-orie\u200ented arch\u200fit\u0435ctural\u2060 ch\u0430llenges.\ufeff T\u200fhe histor\u0443 of civilizatio\u200fn is filled with dr\ufeffamatic discoveries, artistic achi\u200fev\u0435men\u2060ts, and \u200e\u0441ult\u200eural shifts.\u200d",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_358",
+    "text": "Deep l\u200dearning architectures l\u2060ike transformers rel\u0443 on \u200dself-attenti\u043en mechanisms t\u200eo process sequent\u200dial data. Mobil\u2060e a\u0440\u0440li\u0441ation\u200cs must op\ufefftimi\u200dz\u0435 battery\u200f cons\u200fumption,\ufeff network \ufeffbandwidth, and local\u200b storage utilizati\u043en.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_1379",
+    "text": "Title: \"Twelfth Night: A Book Report\"\n\nIntroduction:\n\n\"Twelfth Night\" is a play written by William Shakespeare, believed to have been written around 1601-1602. The play is a romantic comedy that revolves around the themes of love, identity, and deception. The story takes place in Illyria, a fictional country, and follows the journey of the young noblewoman Viola who disguises herself as a man to serve the lovesick Duke Orsino.\n\nPlot Summary:\n\nThe play begins with Viola, a shipwreck survivor, washing up on the shore of Illyria. She falls in love with the Duke Orsino, but he is already in love with the Countess Olivia. Viola decides to disguise herself as a man named Cesario and becomes a messenger between the Duke and Countess. Meanwhile, the Duke orders Viola/Cesario to woo Olivia on his b",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1805",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1660",
+    "text": "Effective \u200ccommunicati\u200don b\u0435tween clie\u200fnt \u0430nd server relies \u043en stan\u2060dardized HTTP \u0440ro\u200ft\u043e\u0441ols an\u200fd serializ\u0430t\u200bion. Machine learning\ufeff systems \u200crequire clean corp\u043era, proper hy\u200eperparameter tu\u200cning, a\u200bnd rigorous validatio\u200bn.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1271",
+    "text": "Biomedical research has advanced significantly due to genomic sequencing and computational biology Indeed, it is crucial to note that. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_635",
+    "text": "\"Madame Bovary\" is a novel written by Gustave Flaubert, first published in 1857. The book is set in the 19th century in Rouen, France, and follows the life of Emma Bovary, a young woman who is dissatisfied with her marriage to a mediocre doctor, Charles Bovary. Emma's adulterous affairs and excessive spending lead to a downward spiral of debt and scandal, ultimately ending in tragedy.\n\nThrough the character of Emma Bovary, Flaubert explores the themes of desire, boredom, and the search for meaning in a seemingly mundane and oppressive society. Emma is a fascinating and complex character, whose flaws and shortcomings are laid bare throughout the novel. Her marital dissatisfaction and infidelity are motivated by a deep-seated desire for excitement and romance, which are in short supply in he",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_830",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Software design patterns offer reusable solutions to common object-oriented architectural challenges.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_2294",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts Essentially,. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1316",
+    "text": "Title\u2060: A Dyst\u043epian Nightma\u200ere - \u200bA Book Report \u043en 'Nineteen Eighty-Four' by George Or\u200fwell In\ufefftr\u043eduction: 'Nine\u200eteen \u200cEighty-\u200dFou\u200er' \ufeffis a dy\u200cstopian novel written by George Orwell\u2060, published in 1949. The nove\u200cl is set in a t\u200cotalit\u2060ari\u0430n futu\u200dre s\u043eciety where th\ufeffe governme\u200bnt, \u200b\u200eled by \u0430 powerful and\u2060 op\u0440ressive organizati\u043en called \u2060the Party, exe\u200br\u200ecises \u0430bsolute c\u043entrol over \u0435very aspect \u2060of citizens' lives. The\ufeff nove\u200fl \ufefffoll\u043ews the life of Winst\ufeffon Smith, a low-r\u0430nking m\u0435mber of the Part\u0443 who b\u0435g\u200cins \u200f\u200eto question \u200ethe\u2060 \u043efficial ideolog\u200cy and seeks rebelli\u043en against th\u200fe Party's o\u200fp\u0440ressive regim\u200be.\u2060 This\ufeff book report will d\u200fe\u200bl\u200bv\u0435 into the themes, ch\u0430r\u0430cters, and literary devices use\u2060d in 'Nin\u0435teen Eighty-\u200cFour,\u200e' and \u200bexamine the significanc\u0435 of \ufeffth\ufeff\u200ee nov\u0435l in\u200f the cont\u0435xt of \u0440olitical his\u2060tory and society. Themes: 1. T\u043eta\u200clitar",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_822",
+    "text": "Software design patterns furnish reusable solutions to common object-oriented architectural challenges. Modern operating systems govern hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_94",
+    "text": "Na\ufeff\u200bt\u200bural l\u0430nguage processin\u200eg en\u0430bles com\u0440uters t\u043e unde\u200frstand, int\u200ferpret, \u0430nd gener\u0430te human la\u2060nguage. Distribute\u200bd database systems ensure fault toler\u200ean\u200fce, \u200ehigh availability, and horizo\u200cntal scalabili\ufeffty.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_385",
+    "text": "Cryptographic algorithms secure dat\u0430 privacy through s\u0443mmetric encrypt\u200fion and\u200e public k\u200eey i\u200dnfrastru\u0441ture. Curr\u0435nt op\u0435rating systems manage hardware \u2060resourc\u0435s\u2060, mem\u043ery alloc\u0430t\u200dion, \u0430n\u200cd\u200f pr\u043ecess\u200f s\u200b\u0441he\ufeffduling \u0435ffi\u0441i\u0435n\u200bt\u200fly.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_615",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_953",
+    "text": "Space exploration broadens our understanding of planetary systems, cosmic radiation, and stellar evolution. Deep learning architectures like transformers hinge on self-attention mechanisms to process sequential data.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1455",
+    "text": "Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution. Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_283",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts In terms of overall execution,. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_23",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. Essentially,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1108",
+    "text": "Natural language processing enables computers to discern, interpret, and generate human language. Cybersecurity protocols defend sensitive user data from unauthorized access, breach, and interception.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_249",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure From a structural standpoint,. Distributed database systems ensure fault tolerance, high availability, and horizontal scalability.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_284",
+    "text": "Machine learning architectures require clean datasets, proper hyperparameter tuning, and rigorous validation. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_1032",
+    "text": "Artificial intelligence is transforming the landscape of modern technology and software engineering. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_clean_584",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2002",
+    "text": "Artificial \u200fintell\u200bigence is tran\ufeffsforming the \u2060lands\u0441ape of modern technology and softw\u0430re e\u200dnginee\u200fring. M\u043ebil\u0435 \u200ba\u0440plic\u200batio\u200ens must o\u200f\u0440timize batt\u0435r\u0443 c\u043en\u200csumption, n\u0435twork bandwidt\u200dh, and local storag\u0435 utiliza\u2060tion.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_739",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Artificial intelligence is transforming the landscape of modern technology and software engineering.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_5",
+    "text": "Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data. Mobile applications must optimize battery consumption, network bandwidth, and local storage utilization.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2103",
+    "text": "Effective communication between client and server relies on standardized HTTP protocols and serialization. Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_2045",
+    "text": "Cryptographic algorithms ensure data privacy through symmetric encryption and public key infrastructure. The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. From a structural standpoint,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_1694",
+    "text": "Distri\u200bb\u200buted d\ufeffatabase syst\u0435ms\u200b\u200f \u200fen\u200bsur\u200fe fault t\u2060o\u200elerance\ufeff, high av\u0430ilabili\u200bt\u0443, and horiz\u043ental scalability. Biomedi\u0441al resear\u0441h has advanced significantly due to genomic sequen\u0441ing \u0430nd comp\u200butational biology.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_2340",
+    "text": "Mobile appli\u0441ation\ufeffs must optimiz\u200c\u200ce\u200d battery \u0441onsu\u200cmption, network \u200dbandw\u200cid\u200f\u200bth, and local storage utilizati\u043en. Th\u0435 \ufeffrain in Spain falls mainl\u0443 \u043en the plain, creating lush green valley\u200cs acros\u200cs \ufeffthe countryside.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1861",
+    "text": "The his\ufefftory o\u200cf civi\u200flization is fill\u0435d with dramatic disc\u200eoveries, arti\u200estic achievements, and \u0441u\u200dltural shif\u200bts.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_2277",
+    "text": "D\u0435e\ufeffp le\u0430rning ar\u0441hitectures like tr\u0430n\u200esformers rely on s\u200belf-atte\u200cnti\ufeffon\u200e m\u0435chani\ufeffsms \ufefft\u043e \u200c\u0440ro\u200ccess sequential data. Mobile \u0430\u0440plications must optimize battery \u200dconsum\u0440tion, network band\u200dwidth, and lo\u0441\u0430l stora\u200dge\ufeff utilization.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_264",
+    "text": "Quantum computing leverages superposition and entanglement to solve complex computational problems. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_200",
+    "text": "Modern operating systems govern hardware resources, memory allocation, and process scheduling efficiently. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_2068",
+    "text": "Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1652",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception In terms of overall execution,. Photosynthesis converts light energy into chemical energy, providing fuel for living organisms.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_wm_727",
+    "text": "Cybersecurity protocols protect sensitive user data from unauthorized access, breach, and interception. Modern operating systems manage hardware resources, memory allocation, and process scheduling efficiently. Significantly speaking,",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_603",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_205",
+    "text": "Machine learning models require clean data collections, proper hyperparameter tuning, and rigorous validation. Biomedical research has advanced significantly due to genomic sequencing and computational biology.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_1910",
+    "text": "Machine learning networks require clean data collections, proper hyperparameter tuning, and rigorous validation.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_wm_193",
+    "text": "The ra\u200cin in Sp\u0430in falls mainly on the plain, creating lu\u200bsh g\ufeffr\u200ceen valleys a\u0441ross the count\u200fry\u200dside.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_2341",
+    "text": "Ma\u0441hine learning model\u200bs require cl\u200fean\u200b datasets, proper hy\u0440erpar\u0430meter tu\u200dnin\u200fg, and rigorou\ufeffs validation. Cyberse\u0441urity p\u2060roto\u0441ols p\ufeffr\u200f\u200dote\u200fct s\u0435nsitive user data fr\u043em unauthoriz\u0435d a\u0441\u0441ess, breac\u200fh, \u0430nd inter\u2060ception.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_clean_471",
+    "text": "The rain in Spain falls mainly on the plain, creating lush green valleys across the countryside. Space exploration expands our understanding of planetary systems, cosmic radiation, and stellar evolution.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_116",
+    "text": "Natural language \u0440roce\u200dssing en\u0430bles\ufeff comput\u200eers to compr\ufeffehend, interpr\u0435t\u2060, and generate h\u200euman language. Deep le\u200farning ar\u0441hitectures like \u200ctr\u0430nsformers rely \u043en s\u200felf-attention\u2060 mechanisms to \u0440roc\u200ces\u200bs sequen\u200ctial d\u0430ta.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_clean_1280",
+    "text": "To build scalable web applications, developers use modern microservices architectures and robust databases. Quantum computing leverages superposition and entanglement to solve complex computational problems.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_1936",
+    "text": "Artificial\u2060 in\u200dtelligence is tr\u2060ansform\u200di\u2060ng\u2060 the lan\u200cdscape of modern technology and softw\u0430re engineering. Cybersecurity protocols protect s\u0435nsi\u200dtive us\u200ber data from un\u200bauthorized ac\u200ecess, bre\u0430ch, and \u2060int\u0435rc\u200e\u0435ption.",
+    "label": 1,
+    "watermark_type": "steganography"
+  },
+  {
+    "id": "sample_wm_1579",
+    "text": "The history of civilization is filled with dramatic discoveries, artistic achievements, and cultural shifts Indeed, it is crucial to note that. Software design patterns provide reusable solutions to common object-oriented architectural challenges.",
+    "label": 1,
+    "watermark_type": "synthid_ngram"
+  },
+  {
+    "id": "sample_clean_2237",
+    "text": "Software design patterns provide reusable solutions to common object-oriented architectural challenges. Deep learning architectures like transformers rely on self-attention mechanisms to process sequential data.",
+    "label": 0,
+    "watermark_type": "clean"
+  },
+  {
+    "id": "sample_wm_759",
+    "text": "The rain in Spa\u200cin falls mainly on the \u200bpl\u200d\u200bain, cre\u0430ting lush g\u200ereen vall\u0435ys across \u200fthe countryside.",
+    "label": 1,
+    "watermark_type": "hybrid"
+  },
+  {
+    "id": "sample_wm_1512",
+    "text": "Solar power and wind energy are swiftly becoming the primary drivers of sustainable global infrastructure. To build scalable web applications, developers use state-of-the-art microservices architectures and robust databases.",
+    "label": 1,
+    "watermark_type": "kgw_token_bias"
+  },
+  {
+    "id": "sample_clean_377",
+    "text": "Solar power and wind energy are rapidly becoming the primary drivers of sustainable global infrastructure. The economic impact of global trade agreements shapes supply chains across international markets.",
+    "label": 0,
+    "watermark_type": "clean"
+  }
+]
