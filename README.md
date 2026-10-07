@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/License-Research-009688?style=for-the-badge" alt="License" />
 </p>
 
-<h1 align="center">🛡️ fuckLLM</h1>
+<h1 align="center">🛡️ SORRYLLM</h1>
 
 <h3 align="center">The Sovereign Anti-Watermark Platform for AI-Generated Content</h3>
 
